@@ -1,0 +1,4448 @@
+[
+  {
+    "endTime" : "2022-01-17 10:00",
+    "artistName" : "Los Pericos",
+    "trackName" : "Runaway",
+    "msPlayed" : 233267
+  },
+  {
+    "endTime" : "2022-01-17 10:03",
+    "artistName" : "Sui Generis",
+    "trackName" : "Quizás, Porque",
+    "msPlayed" : 132973
+  },
+  {
+    "endTime" : "2022-01-17 10:06",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Deja Vu",
+    "msPlayed" : 204920
+  },
+  {
+    "endTime" : "2022-01-17 10:09",
+    "artistName" : "Adrián Berra",
+    "trackName" : "Ya Sabés",
+    "msPlayed" : 189666
+  },
+  {
+    "endTime" : "2022-01-17 10:13",
+    "artistName" : "Nathy Peluso",
+    "trackName" : "BUENOS AIRES",
+    "msPlayed" : 240315
+  },
+  {
+    "endTime" : "2022-01-17 10:18",
+    "artistName" : "Fito Paez",
+    "trackName" : "Parte Del Aire",
+    "msPlayed" : 305493
+  },
+  {
+    "endTime" : "2022-01-17 10:23",
+    "artistName" : "Charly García",
+    "trackName" : "Yendo De La Cama Al Living",
+    "msPlayed" : 285213
+  },
+  {
+    "endTime" : "2022-01-17 10:27",
+    "artistName" : "El Zar",
+    "trackName" : "La Declaración",
+    "msPlayed" : 277573
+  },
+  {
+    "endTime" : "2022-01-17 10:30",
+    "artistName" : "Pappo's Blues",
+    "trackName" : "Desconfío",
+    "msPlayed" : 158815
+  },
+  {
+    "endTime" : "2022-01-17 10:34",
+    "artistName" : "Nathy Peluso",
+    "trackName" : "BUENOS AIRES",
+    "msPlayed" : 240315
+  },
+  {
+    "endTime" : "2022-01-17 10:37",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Quedándote O Yéndote",
+    "msPlayed" : 209160
+  },
+  {
+    "endTime" : "2022-01-17 10:42",
+    "artistName" : "Lito Vitale",
+    "trackName" : "Los Libros de la Buena Memoria",
+    "msPlayed" : 314013
+  },
+  {
+    "endTime" : "2022-01-17 10:47",
+    "artistName" : "Charly García",
+    "trackName" : "Total Interferencia",
+    "msPlayed" : 297986
+  },
+  {
+    "endTime" : "2022-01-17 10:51",
+    "artistName" : "LOUTA",
+    "trackName" : "AMAME",
+    "msPlayed" : 219666
+  },
+  {
+    "endTime" : "2022-01-17 10:53",
+    "artistName" : "Spinetta Jade",
+    "trackName" : "Maribel Se Durmió",
+    "msPlayed" : 155466
+  },
+  {
+    "endTime" : "2022-01-17 10:57",
+    "artistName" : "Serú Girán",
+    "trackName" : "Seminare",
+    "msPlayed" : 207000
+  },
+  {
+    "endTime" : "2022-01-17 11:00",
+    "artistName" : "Almendra",
+    "trackName" : "Muchacha (Ojos de Papel)",
+    "msPlayed" : 184480
+  },
+  {
+    "endTime" : "2022-01-17 11:03",
+    "artistName" : "Fito Paez",
+    "trackName" : "Polaroid De Locura Ordinaria",
+    "msPlayed" : 209240
+  },
+  {
+    "endTime" : "2022-01-17 11:08",
+    "artistName" : "Charly García",
+    "trackName" : "Cerca De La Revolucion",
+    "msPlayed" : 280546
+  },
+  {
+    "endTime" : "2022-01-17 11:10",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Seguir Viviendo Sin Tu Amor",
+    "msPlayed" : 160866
+  },
+  {
+    "endTime" : "2022-01-17 11:13",
+    "artistName" : "La Portuaria",
+    "trackName" : "A Través De Tus Ojos",
+    "msPlayed" : 188546
+  },
+  {
+    "endTime" : "2022-01-17 11:17",
+    "artistName" : "Serú Girán",
+    "trackName" : "Desarma Y Sangra - Remastered",
+    "msPlayed" : 222266
+  },
+  {
+    "endTime" : "2022-01-17 11:23",
+    "artistName" : "Sui Generis",
+    "trackName" : "Un Hada, un Cisne",
+    "msPlayed" : 385840
+  },
+  {
+    "endTime" : "2022-01-17 11:28",
+    "artistName" : "Pedro Guerra",
+    "trackName" : "Cuidame (Directo Libertad 8) (with Jorge Drexler)",
+    "msPlayed" : 299826
+  },
+  {
+    "endTime" : "2022-01-17 11:32",
+    "artistName" : "Charly García",
+    "trackName" : "Raros Peinados Nuevos",
+    "msPlayed" : 214760
+  },
+  {
+    "endTime" : "2022-01-17 11:35",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "No Te Alejes Tanto De Mí",
+    "msPlayed" : 209893
+  },
+  {
+    "endTime" : "2022-01-17 11:39",
+    "artistName" : "Spinetta Jade",
+    "trackName" : "Alma de Diamante",
+    "msPlayed" : 257573
+  },
+  {
+    "endTime" : "2022-01-17 11:43",
+    "artistName" : "Serú Girán",
+    "trackName" : "Peperina",
+    "msPlayed" : 220280
+  },
+  {
+    "endTime" : "2022-01-17 11:46",
+    "artistName" : "Massacre",
+    "trackName" : "Tanto amor",
+    "msPlayed" : 167984
+  },
+  {
+    "endTime" : "2022-01-17 11:49",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Cabildo y Juramento",
+    "msPlayed" : 203826
+  },
+  {
+    "endTime" : "2022-01-17 11:53",
+    "artistName" : "Charly García",
+    "trackName" : "Inconsciente Colectivo",
+    "msPlayed" : 234293
+  },
+  {
+    "endTime" : "2022-01-17 11:56",
+    "artistName" : "LOUTA",
+    "trackName" : "AYER TE VI (feat. Zoe Gotusso)",
+    "msPlayed" : 209133
+  },
+  {
+    "endTime" : "2022-01-17 11:58",
+    "artistName" : "David Lebón",
+    "trackName" : "Parado en el Medio de la Vida (feat. Andrés Calamaro)",
+    "msPlayed" : 145408
+  },
+  {
+    "endTime" : "2022-01-17 12:00",
+    "artistName" : "Serú Girán",
+    "trackName" : "Salir De La Melancolía",
+    "msPlayed" : 125733
+  },
+  {
+    "endTime" : "2022-01-17 12:05",
+    "artistName" : "NAFTA",
+    "trackName" : "Potra",
+    "msPlayed" : 257898
+  },
+  {
+    "endTime" : "2022-01-17 12:08",
+    "artistName" : "No Te Va Gustar",
+    "trackName" : "A las Nueve",
+    "msPlayed" : 207533
+  },
+  {
+    "endTime" : "2022-01-17 12:10",
+    "artistName" : "Charly García",
+    "trackName" : "Demoliendo Hoteles",
+    "msPlayed" : 135973
+  },
+  {
+    "endTime" : "2022-01-17 12:15",
+    "artistName" : "El Mató a un Policía Motorizado",
+    "trackName" : "El Tesoro",
+    "msPlayed" : 271400
+  },
+  {
+    "endTime" : "2022-01-17 12:19",
+    "artistName" : "Ainda",
+    "trackName" : "Primavera",
+    "msPlayed" : 232253
+  },
+  {
+    "endTime" : "2022-01-17 12:23",
+    "artistName" : "Serú Girán",
+    "trackName" : "Canción De Alicia En El País - Remastered",
+    "msPlayed" : 264333
+  },
+  {
+    "endTime" : "2022-01-17 12:26",
+    "artistName" : "Pedro Aznar",
+    "trackName" : "A Primera Vista",
+    "msPlayed" : 185933
+  },
+  {
+    "endTime" : "2022-01-17 12:29",
+    "artistName" : "Jorge Drexler",
+    "trackName" : "Me haces bien",
+    "msPlayed" : 184546
+  },
+  {
+    "endTime" : "2022-01-17 12:32",
+    "artistName" : "Charly García",
+    "trackName" : "Nos Siguen Pegando Abajo",
+    "msPlayed" : 206720
+  },
+  {
+    "endTime" : "2022-01-17 12:37",
+    "artistName" : "Guasones",
+    "trackName" : "Canción para un Amigo",
+    "msPlayed" : 306419
+  },
+  {
+    "endTime" : "2022-01-17 12:39",
+    "artistName" : "Pescado Rabioso",
+    "trackName" : "Todas las Hojas Son del Viento",
+    "msPlayed" : 130080
+  },
+  {
+    "endTime" : "2022-01-17 12:43",
+    "artistName" : "Emmanuel Horvilleur",
+    "trackName" : "Llamame",
+    "msPlayed" : 208790
+  },
+  {
+    "endTime" : "2022-01-17 12:46",
+    "artistName" : "Kevin Johansen",
+    "trackName" : "Tiene Algo (Interesting Little Thing)",
+    "msPlayed" : 205293
+  },
+  {
+    "endTime" : "2022-01-17 14:35",
+    "artistName" : "¿Por qué no te habré hecho caso? con Santiago Siri y Hernán Zin",
+    "trackName" : "4. Ethereum y sus competidores. ¿Quién ganará?",
+    "msPlayed" : 1587740
+  },
+  {
+    "endTime" : "2022-01-18 14:20",
+    "artistName" : "Lito Vitale",
+    "trackName" : "Tres Agujas",
+    "msPlayed" : 168380
+  },
+  {
+    "endTime" : "2022-01-18 14:24",
+    "artistName" : "Duki",
+    "trackName" : "En Movimiento",
+    "msPlayed" : 170658
+  },
+  {
+    "endTime" : "2022-01-18 14:27",
+    "artistName" : "Duki",
+    "trackName" : "Malbec",
+    "msPlayed" : 175890
+  },
+  {
+    "endTime" : "2022-01-18 14:30",
+    "artistName" : "Eladio Carrion",
+    "trackName" : "Sin Frenos",
+    "msPlayed" : 211394
+  },
+  {
+    "endTime" : "2022-01-18 14:32",
+    "artistName" : "Duki",
+    "trackName" : "Rockstar",
+    "msPlayed" : 112273
+  },
+  {
+    "endTime" : "2022-01-18 14:35",
+    "artistName" : "Duki",
+    "trackName" : "Pintao",
+    "msPlayed" : 167340
+  },
+  {
+    "endTime" : "2022-01-18 14:39",
+    "artistName" : "Fuego",
+    "trackName" : "Una Vaina Loca",
+    "msPlayed" : 226187
+  },
+  {
+    "endTime" : "2022-01-18 14:43",
+    "artistName" : "Duki",
+    "trackName" : "Ella Es Mi Bitch",
+    "msPlayed" : 246849
+  },
+  {
+    "endTime" : "2022-01-18 14:47",
+    "artistName" : "NahueMC",
+    "trackName" : "Ready For The Night",
+    "msPlayed" : 44868
+  },
+  {
+    "endTime" : "2022-01-18 14:47",
+    "artistName" : "Duki",
+    "trackName" : "BICI",
+    "msPlayed" : 248966
+  },
+  {
+    "endTime" : "2022-01-18 14:51",
+    "artistName" : "Bad Bunny",
+    "trackName" : "Hablamos Mañana",
+    "msPlayed" : 240253
+  },
+  {
+    "endTime" : "2022-01-18 14:55",
+    "artistName" : "Duki",
+    "trackName" : "Midtown",
+    "msPlayed" : 205709
+  },
+  {
+    "endTime" : "2022-01-18 14:58",
+    "artistName" : "Duki",
+    "trackName" : "Ley de Atracción",
+    "msPlayed" : 180247
+  },
+  {
+    "endTime" : "2022-01-18 15:01",
+    "artistName" : "LIT killah",
+    "trackName" : "Mala Mía",
+    "msPlayed" : 190928
+  },
+  {
+    "endTime" : "2022-01-18 15:07",
+    "artistName" : "Frijo",
+    "trackName" : "Like Boss - Remix (feat. Duki, Bizarrap, Akapellah, Polima Westcoast, Moonkey, Zanto, Santoz)",
+    "msPlayed" : 362281
+  },
+  {
+    "endTime" : "2022-01-18 15:09",
+    "artistName" : "Duki",
+    "trackName" : "Chico Estrella",
+    "msPlayed" : 170309
+  },
+  {
+    "endTime" : "2022-01-18 15:13",
+    "artistName" : "KHEA",
+    "trackName" : "Loca",
+    "msPlayed" : 235890
+  },
+  {
+    "endTime" : "2022-01-18 15:17",
+    "artistName" : "Charly García",
+    "trackName" : "No Toquen",
+    "msPlayed" : 209560
+  },
+  {
+    "endTime" : "2022-01-18 15:21",
+    "artistName" : "Charly García",
+    "trackName" : "Shisyastawuman",
+    "msPlayed" : 270200
+  },
+  {
+    "endTime" : "2022-01-18 15:26",
+    "artistName" : "Charly García",
+    "trackName" : "Cerca De La Revolucion",
+    "msPlayed" : 280546
+  },
+  {
+    "endTime" : "2022-01-18 15:28",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Seguir Viviendo Sin Tu Amor",
+    "msPlayed" : 143233
+  },
+  {
+    "endTime" : "2022-01-18 15:33",
+    "artistName" : "Charly García",
+    "trackName" : "No Me Veras En El Subte",
+    "msPlayed" : 305000
+  },
+  {
+    "endTime" : "2022-01-18 15:36",
+    "artistName" : "Charly García",
+    "trackName" : "Ella Es Bailarina",
+    "msPlayed" : 177866
+  },
+  {
+    "endTime" : "2022-01-18 15:41",
+    "artistName" : "Charly García",
+    "trackName" : "Anhedonia",
+    "msPlayed" : 263200
+  },
+  {
+    "endTime" : "2022-01-18 15:44",
+    "artistName" : "Charly García",
+    "trackName" : "Suicida",
+    "msPlayed" : 196040
+  },
+  {
+    "endTime" : "2022-01-18 15:49",
+    "artistName" : "Charly García",
+    "trackName" : "Fantasy",
+    "msPlayed" : 11193
+  },
+  {
+    "endTime" : "2022-01-18 15:52",
+    "artistName" : "Charly García",
+    "trackName" : "Me Siento Mucho Mejor",
+    "msPlayed" : 186960
+  },
+  {
+    "endTime" : "2022-01-18 15:56",
+    "artistName" : "Charly García",
+    "trackName" : "Tu Amor",
+    "msPlayed" : 186693
+  },
+  {
+    "endTime" : "2022-01-18 21:06",
+    "artistName" : "Charly García",
+    "trackName" : "Rap de las Hormigas",
+    "msPlayed" : 56216
+  },
+  {
+    "endTime" : "2022-01-18 21:10",
+    "artistName" : "Zenon Pereyra",
+    "trackName" : "Malena",
+    "msPlayed" : 253248
+  },
+  {
+    "endTime" : "2022-01-18 21:34",
+    "artistName" : "El Zar",
+    "trackName" : "El Momento Perfecto",
+    "msPlayed" : 394343
+  },
+  {
+    "endTime" : "2022-01-18 21:37",
+    "artistName" : "Zenon Pereyra",
+    "trackName" : "Gente cool",
+    "msPlayed" : 199763
+  },
+  {
+    "endTime" : "2022-01-18 21:41",
+    "artistName" : "Mia Zeta",
+    "trackName" : "Nada Mas Que Hacer",
+    "msPlayed" : 227058
+  },
+  {
+    "endTime" : "2022-01-18 21:45",
+    "artistName" : "Bandalos Chinos",
+    "trackName" : "La Herida",
+    "msPlayed" : 246586
+  },
+  {
+    "endTime" : "2022-01-18 21:48",
+    "artistName" : "Salvapantallas",
+    "trackName" : "Si Me Voy",
+    "msPlayed" : 188558
+  },
+  {
+    "endTime" : "2022-01-18 21:53",
+    "artistName" : "Bandalos Chinos",
+    "trackName" : "Dije Tu Nombre",
+    "msPlayed" : 296122
+  },
+  {
+    "endTime" : "2022-01-18 21:56",
+    "artistName" : "Indios",
+    "trackName" : "Tu Geografía",
+    "msPlayed" : 158840
+  },
+  {
+    "endTime" : "2022-01-18 21:58",
+    "artistName" : "Axel Fiks",
+    "trackName" : "Ojitos de Md - Remix",
+    "msPlayed" : 170192
+  },
+  {
+    "endTime" : "2022-01-18 22:03",
+    "artistName" : "El Mató a un Policía Motorizado",
+    "trackName" : "El Tesoro",
+    "msPlayed" : 271400
+  },
+  {
+    "endTime" : "2022-01-18 22:07",
+    "artistName" : "Clara Cava",
+    "trackName" : "Todos los Fds",
+    "msPlayed" : 231044
+  },
+  {
+    "endTime" : "2022-01-18 22:24",
+    "artistName" : "Salvapantallas",
+    "trackName" : "Mil Mensajes",
+    "msPlayed" : 73091
+  },
+  {
+    "endTime" : "2022-01-18 22:48",
+    "artistName" : "¿Por qué no te habré hecho caso? con Santiago Siri y Hernán Zin",
+    "trackName" : "5. Vitalik Buterin en Argentina: lo que nadie te ha contado",
+    "msPlayed" : 1464919
+  },
+  {
+    "endTime" : "2022-01-19 00:14",
+    "artistName" : "¿Por qué no te habré hecho caso? con Santiago Siri y Hernán Zin",
+    "trackName" : "5. Vitalik Buterin en Argentina: lo que nadie te ha contado",
+    "msPlayed" : 1686294
+  },
+  {
+    "endTime" : "2022-01-19 02:18",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Se Me Hizo Tarde",
+    "msPlayed" : 237636
+  },
+  {
+    "endTime" : "2022-01-19 02:21",
+    "artistName" : "C. Tangana",
+    "trackName" : "Hong Kong",
+    "msPlayed" : 203506
+  },
+  {
+    "endTime" : "2022-01-19 02:24",
+    "artistName" : "Taburete",
+    "trackName" : "Amos del Piano Bar",
+    "msPlayed" : 172035
+  },
+  {
+    "endTime" : "2022-01-19 02:27",
+    "artistName" : "Mancha De Rolando",
+    "trackName" : "Sola",
+    "msPlayed" : 206172
+  },
+  {
+    "endTime" : "2022-01-19 02:36",
+    "artistName" : "Fito Paez",
+    "trackName" : "Parte Del Aire",
+    "msPlayed" : 140749
+  },
+  {
+    "endTime" : "2022-01-19 02:39",
+    "artistName" : "Danny Ocean",
+    "trackName" : "Tú no me conoces",
+    "msPlayed" : 149787
+  },
+  {
+    "endTime" : "2022-01-19 02:42",
+    "artistName" : "Tiago PZK",
+    "trackName" : "Entre Nosotros",
+    "msPlayed" : 192352
+  },
+  {
+    "endTime" : "2022-01-19 02:45",
+    "artistName" : "El Kuelgue",
+    "trackName" : "Chiste",
+    "msPlayed" : 168789
+  },
+  {
+    "endTime" : "2022-01-19 02:50",
+    "artistName" : "Spotify",
+    "trackName" : "Es martes",
+    "msPlayed" : 2050
+  },
+  {
+    "endTime" : "2022-01-19 02:50",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "La Dirección",
+    "msPlayed" : 96531
+  },
+  {
+    "endTime" : "2022-01-19 02:54",
+    "artistName" : "Spotify",
+    "trackName" : "Es martes",
+    "msPlayed" : 10471
+  },
+  {
+    "endTime" : "2022-01-19 02:54",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Música de los Sueños de Tu Juventud",
+    "msPlayed" : 253781
+  },
+  {
+    "endTime" : "2022-01-19 02:56",
+    "artistName" : "Nuestro Día",
+    "trackName" : "La vacuna AstraZeneca no tiene grafeno",
+    "msPlayed" : 82757
+  },
+  {
+    "endTime" : "2022-01-19 03:01",
+    "artistName" : "Fito Paez",
+    "trackName" : "Dos en la ciudad",
+    "msPlayed" : 342160
+  },
+  {
+    "endTime" : "2022-01-19 03:05",
+    "artistName" : "Fito Paez",
+    "trackName" : "Polaroid De Locura Ordinaria",
+    "msPlayed" : 209240
+  },
+  {
+    "endTime" : "2022-01-19 03:08",
+    "artistName" : "Fito Paez",
+    "trackName" : "Cancion Sobre Cancion",
+    "msPlayed" : 228306
+  },
+  {
+    "endTime" : "2022-01-19 03:11",
+    "artistName" : "The Beatles",
+    "trackName" : "Michelle - Remastered 2009",
+    "msPlayed" : 162373
+  },
+  {
+    "endTime" : "2022-01-19 03:15",
+    "artistName" : "El Cuarteto De Nos",
+    "trackName" : "No llora",
+    "msPlayed" : 259840
+  },
+  {
+    "endTime" : "2022-01-19 03:19",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Canción Animal - Remasterizado 2007",
+    "msPlayed" : 247453
+  },
+  {
+    "endTime" : "2022-01-19 03:20",
+    "artistName" : "The Beatles",
+    "trackName" : "Michelle - Remastered 2009",
+    "msPlayed" : 4960
+  },
+  {
+    "endTime" : "2022-01-19 03:20",
+    "artistName" : "El podcast de Chequeado",
+    "trackName" : "Subte: qué cambia con la nueva concesión  ",
+    "msPlayed" : 22435
+  },
+  {
+    "endTime" : "2022-01-19 03:24",
+    "artistName" : "Serú Girán",
+    "trackName" : "Desarma Y Sangra - Remastered",
+    "msPlayed" : 222266
+  },
+  {
+    "endTime" : "2022-01-19 03:26",
+    "artistName" : "Andrés Calamaro",
+    "trackName" : "No Me Pidas Que No Sea Un Inconsciente",
+    "msPlayed" : 130880
+  },
+  {
+    "endTime" : "2022-01-19 03:30",
+    "artistName" : "El Cuarteto De Nos",
+    "trackName" : "Lo malo de ser bueno",
+    "msPlayed" : 242120
+  },
+  {
+    "endTime" : "2022-01-19 03:35",
+    "artistName" : "Spotify",
+    "trackName" : "Es martes",
+    "msPlayed" : 10471
+  },
+  {
+    "endTime" : "2022-01-19 03:35",
+    "artistName" : "Billy Joel",
+    "trackName" : "Piano Man",
+    "msPlayed" : 339000
+  },
+  {
+    "endTime" : "2022-01-19 03:44",
+    "artistName" : "Fito Paez",
+    "trackName" : "Polaroid De Locura Ordinaria",
+    "msPlayed" : 9140
+  },
+  {
+    "endTime" : "2022-01-19 03:44",
+    "artistName" : "Nuestro Día",
+    "trackName" : "La vacuna AstraZeneca no tiene grafeno",
+    "msPlayed" : 542770
+  },
+  {
+    "endTime" : "2022-01-19 03:48",
+    "artistName" : "Charly García",
+    "trackName" : "Vos También Estabas Verde",
+    "msPlayed" : 188506
+  },
+  {
+    "endTime" : "2022-01-19 03:52",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Puente",
+    "msPlayed" : 273800
+  },
+  {
+    "endTime" : "2022-01-19 03:54",
+    "artistName" : "Charly García",
+    "trackName" : "Demoliendo Hoteles",
+    "msPlayed" : 135973
+  },
+  {
+    "endTime" : "2022-01-19 03:57",
+    "artistName" : "Charly García",
+    "trackName" : "Tu Amor",
+    "msPlayed" : 186466
+  },
+  {
+    "endTime" : "2022-01-19 04:01",
+    "artistName" : "Charly García",
+    "trackName" : "Nos Siguen Pegando Abajo",
+    "msPlayed" : 206720
+  },
+  {
+    "endTime" : "2022-01-19 04:04",
+    "artistName" : "Andrés Calamaro",
+    "trackName" : "Estadio Azteca",
+    "msPlayed" : 217973
+  },
+  {
+    "endTime" : "2022-01-19 04:08",
+    "artistName" : "Charly García",
+    "trackName" : "Hablando a Tu Corazón",
+    "msPlayed" : 255266
+  },
+  {
+    "endTime" : "2022-01-19 04:15",
+    "artistName" : "Los Piojos",
+    "trackName" : "El Farolito (La Rubia Tarada) - En Vivo",
+    "msPlayed" : 380920
+  },
+  {
+    "endTime" : "2022-01-19 04:18",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Crimen",
+    "msPlayed" : 232026
+  },
+  {
+    "endTime" : "2022-01-19 04:23",
+    "artistName" : "Charly García",
+    "trackName" : "Peluca Telefónica",
+    "msPlayed" : 301040
+  },
+  {
+    "endTime" : "2022-01-19 04:27",
+    "artistName" : "Charly García",
+    "trackName" : "Siempre Puedes Olvidar",
+    "msPlayed" : 231000
+  },
+  {
+    "endTime" : "2022-01-19 04:32",
+    "artistName" : "Sui Generis",
+    "trackName" : "El Día Que Apagaron La Luz",
+    "msPlayed" : 270986
+  },
+  {
+    "endTime" : "2022-01-19 04:35",
+    "artistName" : "Sui Generis",
+    "trackName" : "Juan Represión",
+    "msPlayed" : 208306
+  },
+  {
+    "endTime" : "2022-01-19 04:39",
+    "artistName" : "Charly García",
+    "trackName" : "No Me Dejan Salir",
+    "msPlayed" : 263200
+  },
+  {
+    "endTime" : "2022-01-19 04:43",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Bajan",
+    "msPlayed" : 248266
+  },
+  {
+    "endTime" : "2022-01-19 04:48",
+    "artistName" : "Charly García",
+    "trackName" : "Rezo por Vos",
+    "msPlayed" : 269053
+  },
+  {
+    "endTime" : "2022-01-19 04:53",
+    "artistName" : "Los Piojos",
+    "trackName" : "Canción de Cuna",
+    "msPlayed" : 340880
+  },
+  {
+    "endTime" : "2022-01-19 14:43",
+    "artistName" : "Fito Paez",
+    "trackName" : "Los Días de Sonrisas, Vino y Flores",
+    "msPlayed" : 14220
+  },
+  {
+    "endTime" : "2022-01-19 14:46",
+    "artistName" : "Almendra",
+    "trackName" : "Muchacha (Ojos de Papel)",
+    "msPlayed" : 184480
+  },
+  {
+    "endTime" : "2022-01-19 14:54",
+    "artistName" : "Natalia Lafourcade",
+    "trackName" : "La Malquerida - En Vivo",
+    "msPlayed" : 485717
+  },
+  {
+    "endTime" : "2022-01-19 14:58",
+    "artistName" : "Julieta Venegas",
+    "trackName" : "Sin Documentos",
+    "msPlayed" : 227626
+  },
+  {
+    "endTime" : "2022-01-19 15:02",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Cuando Pase El Temblor - Remasterizado 2007",
+    "msPlayed" : 229160
+  },
+  {
+    "endTime" : "2022-01-19 15:06",
+    "artistName" : "Red Hot Chili Peppers",
+    "trackName" : "Under the Bridge",
+    "msPlayed" : 264306
+  },
+  {
+    "endTime" : "2022-01-19 15:10",
+    "artistName" : "Laura Marling",
+    "trackName" : "A Hard Rain's A-Gonna Fall",
+    "msPlayed" : 235123
+  },
+  {
+    "endTime" : "2022-01-19 15:16",
+    "artistName" : "Bob Dylan",
+    "trackName" : "Like a Rolling Stone",
+    "msPlayed" : 369600
+  },
+  {
+    "endTime" : "2022-01-19 15:19",
+    "artistName" : "Sui Generis",
+    "trackName" : "Canción para Mi Muerte",
+    "msPlayed" : 215893
+  },
+  {
+    "endTime" : "2022-01-19 15:24",
+    "artistName" : "Maná",
+    "trackName" : "Mariposa Traicionera",
+    "msPlayed" : 264599
+  },
+  {
+    "endTime" : "2022-01-19 15:27",
+    "artistName" : "Taylor Swift",
+    "trackName" : "September - Recorded at The Tracking Room Nashville",
+    "msPlayed" : 187823
+  },
+  {
+    "endTime" : "2022-01-20 02:04",
+    "artistName" : "Sinéad O'Connor",
+    "trackName" : "Nothing Compares 2 U",
+    "msPlayed" : 253767
+  },
+  {
+    "endTime" : "2022-01-20 02:07",
+    "artistName" : "Bandalos Chinos",
+    "trackName" : "Mi Manera De Ser",
+    "msPlayed" : 160853
+  },
+  {
+    "endTime" : "2022-01-20 02:10",
+    "artistName" : "El Zar",
+    "trackName" : "El Momento Perfecto",
+    "msPlayed" : 201661
+  },
+  {
+    "endTime" : "2022-01-20 02:13",
+    "artistName" : "Coti",
+    "trackName" : "Paris De Tu Mano",
+    "msPlayed" : 202680
+  },
+  {
+    "endTime" : "2022-01-20 02:16",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Mi Casa Tu Casa",
+    "msPlayed" : 187885
+  },
+  {
+    "endTime" : "2022-01-20 02:20",
+    "artistName" : "Cruzando El Charco",
+    "trackName" : "Cambiando de Color",
+    "msPlayed" : 210429
+  },
+  {
+    "endTime" : "2022-01-20 02:24",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "La Dirección",
+    "msPlayed" : 224768
+  },
+  {
+    "endTime" : "2022-01-20 02:26",
+    "artistName" : "Los Auténticos Decadentes",
+    "trackName" : "Luna de Miel en la Mano",
+    "msPlayed" : 168096
+  },
+  {
+    "endTime" : "2022-01-20 02:31",
+    "artistName" : "El Zar",
+    "trackName" : "La Declaración",
+    "msPlayed" : 277573
+  },
+  {
+    "endTime" : "2022-01-20 02:33",
+    "artistName" : "Bandalos Chinos",
+    "trackName" : "Paranoia Pop",
+    "msPlayed" : 113623
+  },
+  {
+    "endTime" : "2022-01-20 02:38",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Disfraz",
+    "msPlayed" : 289307
+  },
+  {
+    "endTime" : "2022-01-20 02:41",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "No Aguanto Más",
+    "msPlayed" : 226629
+  },
+  {
+    "endTime" : "2022-01-20 02:45",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Mundo de Cristal",
+    "msPlayed" : 251788
+  },
+  {
+    "endTime" : "2022-01-20 02:49",
+    "artistName" : "Nathy Peluso",
+    "trackName" : "BUENOS AIRES",
+    "msPlayed" : 240315
+  },
+  {
+    "endTime" : "2022-01-20 02:53",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "En Todos los Lugares",
+    "msPlayed" : 243093
+  },
+  {
+    "endTime" : "2022-01-20 03:00",
+    "artistName" : "Los Piojos",
+    "trackName" : "El Farolito (La Rubia Tarada) - En Vivo",
+    "msPlayed" : 380920
+  },
+  {
+    "endTime" : "2022-01-20 03:02",
+    "artistName" : "Bandalos Chinos",
+    "trackName" : "El Ídolo",
+    "msPlayed" : 151653
+  },
+  {
+    "endTime" : "2022-01-20 03:07",
+    "artistName" : "Guasones",
+    "trackName" : "Infierno Blanco",
+    "msPlayed" : 316106
+  },
+  {
+    "endTime" : "2022-01-20 03:11",
+    "artistName" : "El Kuelgue",
+    "trackName" : "Planeta Numir",
+    "msPlayed" : 213240
+  },
+  {
+    "endTime" : "2022-01-20 03:14",
+    "artistName" : "Zenon Pereyra",
+    "trackName" : "Bossanova",
+    "msPlayed" : 201878
+  },
+  {
+    "endTime" : "2022-01-20 03:32",
+    "artistName" : "Guasones",
+    "trackName" : "100 Años",
+    "msPlayed" : 4365
+  },
+  {
+    "endTime" : "2022-01-20 03:36",
+    "artistName" : "Cruzando El Charco",
+    "trackName" : "El Trato",
+    "msPlayed" : 211500
+  },
+  {
+    "endTime" : "2022-01-20 03:41",
+    "artistName" : "Charly García",
+    "trackName" : "Yo No Quiero Volverme Tan Loco",
+    "msPlayed" : 310706
+  },
+  {
+    "endTime" : "2022-01-20 03:46",
+    "artistName" : "Charly García",
+    "trackName" : "Total Interferencia",
+    "msPlayed" : 297986
+  },
+  {
+    "endTime" : "2022-01-20 03:57",
+    "artistName" : "Charly García",
+    "trackName" : "Serú Giran Medley - Live",
+    "msPlayed" : 60797
+  },
+  {
+    "endTime" : "2022-01-20 04:08",
+    "artistName" : "Charly García",
+    "trackName" : "Serú Giran Medley - Live",
+    "msPlayed" : 355383
+  },
+  {
+    "endTime" : "2022-01-20 04:08",
+    "artistName" : "Coti",
+    "trackName" : "Otra Vez - En Vivo En El Gran Rex / 2015",
+    "msPlayed" : 35621
+  },
+  {
+    "endTime" : "2022-01-20 04:11",
+    "artistName" : "Serú Girán",
+    "trackName" : "Mundo Agradable",
+    "msPlayed" : 173107
+  },
+  {
+    "endTime" : "2022-01-20 04:14",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Mi Casa Tu Casa",
+    "msPlayed" : 187885
+  },
+  {
+    "endTime" : "2022-01-20 04:14",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Cicatriz",
+    "msPlayed" : 5624
+  },
+  {
+    "endTime" : "2022-01-20 04:18",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Vos y Yo",
+    "msPlayed" : 204299
+  },
+  {
+    "endTime" : "2022-01-20 04:24",
+    "artistName" : "The Beatles",
+    "trackName" : "Michelle - Remastered 2009",
+    "msPlayed" : 372937
+  },
+  {
+    "endTime" : "2022-01-20 04:28",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Música de los Sueños de Tu Juventud",
+    "msPlayed" : 253781
+  },
+  {
+    "endTime" : "2022-01-20 04:29",
+    "artistName" : "Zenon Pereyra",
+    "trackName" : "Bossanova",
+    "msPlayed" : 17413
+  },
+  {
+    "endTime" : "2022-01-20 04:45",
+    "artistName" : "Charly García",
+    "trackName" : "Necesito Tu Amor",
+    "msPlayed" : 210604
+  },
+  {
+    "endTime" : "2022-01-20 05:06",
+    "artistName" : "Serú Girán",
+    "trackName" : "Desarma Y Sangra - Remastered",
+    "msPlayed" : 213093
+  },
+  {
+    "endTime" : "2022-01-20 05:52",
+    "artistName" : "FINNEAS",
+    "trackName" : "I Lost a Friend",
+    "msPlayed" : 14473
+  },
+  {
+    "endTime" : "2022-01-20 13:06",
+    "artistName" : "FINNEAS",
+    "trackName" : "I Lost a Friend",
+    "msPlayed" : 43819
+  },
+  {
+    "endTime" : "2022-01-20 13:08",
+    "artistName" : "The Beatles",
+    "trackName" : "Back In The U.S.S.R. - Remastered 2009",
+    "msPlayed" : 163453
+  },
+  {
+    "endTime" : "2022-01-20 13:11",
+    "artistName" : "Elton John",
+    "trackName" : "I'm Still Standing",
+    "msPlayed" : 183440
+  },
+  {
+    "endTime" : "2022-01-20 13:15",
+    "artistName" : "John Mayer",
+    "trackName" : "Slow Dancing in a Burning Room",
+    "msPlayed" : 242000
+  },
+  {
+    "endTime" : "2022-01-20 13:19",
+    "artistName" : "Coldplay",
+    "trackName" : "Higher Power",
+    "msPlayed" : 211294
+  },
+  {
+    "endTime" : "2022-01-20 13:24",
+    "artistName" : "Bob Dylan",
+    "trackName" : "Gotta Serve Somebody",
+    "msPlayed" : 324800
+  },
+  {
+    "endTime" : "2022-01-20 13:29",
+    "artistName" : "Eric Clapton",
+    "trackName" : "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+    "msPlayed" : 289026
+  },
+  {
+    "endTime" : "2022-01-20 13:34",
+    "artistName" : "Pink Floyd",
+    "trackName" : "Wish You Were Here",
+    "msPlayed" : 334743
+  },
+  {
+    "endTime" : "2022-01-20 13:38",
+    "artistName" : "The Police",
+    "trackName" : "So Lonely",
+    "msPlayed" : 236526
+  },
+  {
+    "endTime" : "2022-01-20 13:42",
+    "artistName" : "Eric Clapton",
+    "trackName" : "Cocaine",
+    "msPlayed" : 221640
+  },
+  {
+    "endTime" : "2022-01-20 13:48",
+    "artistName" : "Sumo",
+    "trackName" : "Heroína",
+    "msPlayed" : 341826
+  },
+  {
+    "endTime" : "2022-01-20 14:06",
+    "artistName" : "The Killers",
+    "trackName" : "Human",
+    "msPlayed" : 173796
+  },
+  {
+    "endTime" : "2022-01-20 14:10",
+    "artistName" : "The White Buffalo",
+    "trackName" : "Come Join the Murder - From Sons of Anarchy",
+    "msPlayed" : 211023
+  },
+  {
+    "endTime" : "2022-01-20 14:14",
+    "artistName" : "Black Moon Lovers",
+    "trackName" : "Red Right Hand (From \"Peaky Blinders\")",
+    "msPlayed" : 238650
+  },
+  {
+    "endTime" : "2022-01-20 14:17",
+    "artistName" : "The Killers",
+    "trackName" : "Somebody Told Me",
+    "msPlayed" : 197280
+  },
+  {
+    "endTime" : "2022-01-20 14:19",
+    "artistName" : "Gorillaz",
+    "trackName" : "Clint Eastwood",
+    "msPlayed" : 144834
+  },
+  {
+    "endTime" : "2022-01-20 14:25",
+    "artistName" : "Hugh Jackman",
+    "trackName" : "From Now On",
+    "msPlayed" : 349560
+  },
+  {
+    "endTime" : "2022-01-20 14:30",
+    "artistName" : "Imagine Dragons",
+    "trackName" : "Whatever It Takes",
+    "msPlayed" : 6794
+  },
+  {
+    "endTime" : "2022-01-20 14:30",
+    "artistName" : "The Animals",
+    "trackName" : "The House of the Rising Sun",
+    "msPlayed" : 17622
+  },
+  {
+    "endTime" : "2022-01-20 14:30",
+    "artistName" : "Palito Ortega",
+    "trackName" : "La Casa del Sol Naciente",
+    "msPlayed" : 285253
+  },
+  {
+    "endTime" : "2022-01-20 14:34",
+    "artistName" : "Hugh Jackman",
+    "trackName" : "The Other Side",
+    "msPlayed" : 214373
+  },
+  {
+    "endTime" : "2022-01-20 14:37",
+    "artistName" : "Demi Lovato",
+    "trackName" : "This Is Me",
+    "msPlayed" : 189173
+  },
+  {
+    "endTime" : "2022-01-20 14:41",
+    "artistName" : "Keala Settle",
+    "trackName" : "This Is Me",
+    "msPlayed" : 234706
+  },
+  {
+    "endTime" : "2022-01-20 14:45",
+    "artistName" : "Michael Jackson",
+    "trackName" : "We Are The World - Live",
+    "msPlayed" : 278624
+  },
+  {
+    "endTime" : "2022-01-20 14:47",
+    "artistName" : "Jonas Brothers",
+    "trackName" : "S.O.S.",
+    "msPlayed" : 97636
+  },
+  {
+    "endTime" : "2022-01-20 14:48",
+    "artistName" : "Nick Jonas",
+    "trackName" : "Introducing Me - From \"Camp Rock 2: The Final Jam\"",
+    "msPlayed" : 74555
+  },
+  {
+    "endTime" : "2022-01-20 14:49",
+    "artistName" : "Kevin Jonas",
+    "trackName" : "Heart and Soul - From \"Camp Rock 2: The Final Jam\"",
+    "msPlayed" : 69650
+  },
+  {
+    "endTime" : "2022-01-20 14:52",
+    "artistName" : "Drake Bell",
+    "trackName" : "Found a Way",
+    "msPlayed" : 181640
+  },
+  {
+    "endTime" : "2022-01-20 14:53",
+    "artistName" : "Barenaked Ladies",
+    "trackName" : "Big Bang Theory Theme",
+    "msPlayed" : 20481
+  },
+  {
+    "endTime" : "2022-01-20 14:56",
+    "artistName" : "Andrea Bocelli",
+    "trackName" : "Vivo per lei",
+    "msPlayed" : 206861
+  },
+  {
+    "endTime" : "2022-01-20 15:00",
+    "artistName" : "Andrea Bocelli",
+    "trackName" : "Con te partirò",
+    "msPlayed" : 229634
+  },
+  {
+    "endTime" : "2022-01-20 15:04",
+    "artistName" : "Rihanna",
+    "trackName" : "Umbrella",
+    "msPlayed" : 255491
+  },
+  {
+    "endTime" : "2022-01-20 15:08",
+    "artistName" : "Rihanna",
+    "trackName" : "S&M",
+    "msPlayed" : 243533
+  },
+  {
+    "endTime" : "2022-01-20 15:12",
+    "artistName" : "Lil Wayne",
+    "trackName" : "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+    "msPlayed" : 243490
+  },
+  {
+    "endTime" : "2022-01-20 15:17",
+    "artistName" : "Queen",
+    "trackName" : "Under Pressure - Remastered 2011",
+    "msPlayed" : 248440
+  },
+  {
+    "endTime" : "2022-01-20 15:23",
+    "artistName" : "Eminem",
+    "trackName" : "Lose Yourself - From \"8 Mile\" Soundtrack",
+    "msPlayed" : 322226
+  },
+  {
+    "endTime" : "2022-01-20 15:27",
+    "artistName" : "Eminem",
+    "trackName" : "Love The Way You Lie",
+    "msPlayed" : 263373
+  },
+  {
+    "endTime" : "2022-01-20 15:29",
+    "artistName" : "Jonas Brothers",
+    "trackName" : "Year 3000",
+    "msPlayed" : 93959
+  },
+  {
+    "endTime" : "2022-01-20 15:54",
+    "artistName" : "Jonas Brothers",
+    "trackName" : "Year 3000",
+    "msPlayed" : 2252
+  },
+  {
+    "endTime" : "2022-01-20 15:55",
+    "artistName" : "The Beatles",
+    "trackName" : "All You Need Is Love - Remastered 2009",
+    "msPlayed" : 56778
+  },
+  {
+    "endTime" : "2022-01-20 15:58",
+    "artistName" : "Queen",
+    "trackName" : "I Want To Break Free - Remastered 2011",
+    "msPlayed" : 198773
+  },
+  {
+    "endTime" : "2022-01-20 16:03",
+    "artistName" : "The Beatles",
+    "trackName" : "Come Together - Remastered 2009",
+    "msPlayed" : 257641
+  },
+  {
+    "endTime" : "2022-01-20 16:03",
+    "artistName" : "The Rolling Stones",
+    "trackName" : "Brown Sugar - 2009 Remaster",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2022-01-20 16:04",
+    "artistName" : "Queen",
+    "trackName" : "Hammer To Fall - Remastered 2011",
+    "msPlayed" : 53408
+  },
+  {
+    "endTime" : "2022-01-20 16:06",
+    "artistName" : "Bruno Mars",
+    "trackName" : "Leave The Door Open",
+    "msPlayed" : 162431
+  },
+  {
+    "endTime" : "2022-01-20 16:10",
+    "artistName" : "Mötley Crüe",
+    "trackName" : "Home Sweet Home",
+    "msPlayed" : 240933
+  },
+  {
+    "endTime" : "2022-01-20 16:14",
+    "artistName" : "Michael Jackson",
+    "trackName" : "Rock With You",
+    "msPlayed" : 214126
+  },
+  {
+    "endTime" : "2022-01-20 16:15",
+    "artistName" : "Blondie",
+    "trackName" : "Heart Of Glass",
+    "msPlayed" : 6317
+  },
+  {
+    "endTime" : "2022-01-20 16:15",
+    "artistName" : "Bee Gees",
+    "trackName" : "You Should Be Dancing",
+    "msPlayed" : 51218
+  },
+  {
+    "endTime" : "2022-01-20 16:36",
+    "artistName" : "No Doubt",
+    "trackName" : "Don't Speak",
+    "msPlayed" : 158237
+  },
+  {
+    "endTime" : "2022-01-20 16:41",
+    "artistName" : "Charles Ives",
+    "trackName" : "Piano Sonata No. 2 (\"Concord, Mass., 1840-1860\"): III. The Alcotts",
+    "msPlayed" : 2632
+  },
+  {
+    "endTime" : "2022-01-20 16:44",
+    "artistName" : "Anders Miolin",
+    "trackName" : "3 Gymnopedies (arr. A. Miolin): Gymnopedie No. 3",
+    "msPlayed" : 193320
+  },
+  {
+    "endTime" : "2022-01-20 16:44",
+    "artistName" : "The Magician",
+    "trackName" : "Sunlight (feat. Years and Years) - Radio Edit",
+    "msPlayed" : 4463
+  },
+  {
+    "endTime" : "2022-01-20 16:44",
+    "artistName" : "Armand Van Helden",
+    "trackName" : "Wings",
+    "msPlayed" : 23
+  },
+  {
+    "endTime" : "2022-01-20 16:44",
+    "artistName" : "Madonna",
+    "trackName" : "Music Inferno - Live",
+    "msPlayed" : 14455
+  },
+  {
+    "endTime" : "2022-01-20 16:46",
+    "artistName" : "Serú Girán",
+    "trackName" : "Veinte Trajes Verdes - Instrumental",
+    "msPlayed" : 122613
+  },
+  {
+    "endTime" : "2022-01-20 16:51",
+    "artistName" : "Frédéric Chopin",
+    "trackName" : "Nocturne in C-Sharp Minor, Op. 27 No. 1",
+    "msPlayed" : 297943
+  },
+  {
+    "endTime" : "2022-01-20 16:53",
+    "artistName" : "Johann Sebastian Bach",
+    "trackName" : "Prelude in C Minor, BWV 847",
+    "msPlayed" : 108403
+  },
+  {
+    "endTime" : "2022-01-20 16:56",
+    "artistName" : "Jordan Moths",
+    "trackName" : "Golden Slumbers",
+    "msPlayed" : 1895
+  },
+  {
+    "endTime" : "2022-01-20 16:56",
+    "artistName" : "Philip Glass",
+    "trackName" : "Etude No. 2",
+    "msPlayed" : 184801
+  },
+  {
+    "endTime" : "2022-01-20 17:11",
+    "artistName" : "Ludwig van Beethoven",
+    "trackName" : "Beethoven: Piano Sonata No.18 In E Flat Major Op.31 No.3 - I. Allegro",
+    "msPlayed" : 241386
+  },
+  {
+    "endTime" : "2022-01-20 22:04",
+    "artistName" : "WOS",
+    "trackName" : "FREESTYLE - Live Set",
+    "msPlayed" : 23
+  },
+  {
+    "endTime" : "2022-01-20 22:04",
+    "artistName" : "Ludwig van Beethoven",
+    "trackName" : "Beethoven: Piano Sonata No.18 In E Flat Major Op.31 No.3 - I. Allegro",
+    "msPlayed" : 4355
+  },
+  {
+    "endTime" : "2022-01-20 22:04",
+    "artistName" : "Ludwig van Beethoven",
+    "trackName" : "Beethoven: Piano Sonata No.18 In E Flat Major Op.31 No.3 - I. Allegro",
+    "msPlayed" : 12819
+  },
+  {
+    "endTime" : "2022-01-20 22:04",
+    "artistName" : "El Zar",
+    "trackName" : "La Declaración",
+    "msPlayed" : 10573
+  },
+  {
+    "endTime" : "2022-01-20 22:08",
+    "artistName" : "WOS",
+    "trackName" : "FREESTYLE - Live Set",
+    "msPlayed" : 203547
+  },
+  {
+    "endTime" : "2022-01-20 22:13",
+    "artistName" : "Duki",
+    "trackName" : "Malbec",
+    "msPlayed" : 129734
+  },
+  {
+    "endTime" : "2022-01-20 22:15",
+    "artistName" : "Duki",
+    "trackName" : "Volando Bajito",
+    "msPlayed" : 134666
+  },
+  {
+    "endTime" : "2022-01-20 22:18",
+    "artistName" : "LIT killah",
+    "trackName" : "My Bag",
+    "msPlayed" : 132918
+  },
+  {
+    "endTime" : "2022-01-20 22:22",
+    "artistName" : "Duki",
+    "trackName" : "BICI",
+    "msPlayed" : 210098
+  },
+  {
+    "endTime" : "2022-01-20 22:25",
+    "artistName" : "Bizarrap",
+    "trackName" : "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+    "msPlayed" : 160000
+  },
+  {
+    "endTime" : "2022-01-20 22:28",
+    "artistName" : "Kaleb Di Masi",
+    "trackName" : "Hace Calor",
+    "msPlayed" : 201197
+  },
+  {
+    "endTime" : "2022-01-20 22:31",
+    "artistName" : "FMK",
+    "trackName" : "Tranquila",
+    "msPlayed" : 183430
+  },
+  {
+    "endTime" : "2022-01-20 22:32",
+    "artistName" : "Paulo Londra",
+    "trackName" : "Condenado Para El Millón",
+    "msPlayed" : 54334
+  },
+  {
+    "endTime" : "2022-01-20 22:55",
+    "artistName" : "Nicki Nicole",
+    "trackName" : "Sabe",
+    "msPlayed" : 161634
+  },
+  {
+    "endTime" : "2022-01-20 23:47",
+    "artistName" : "Nicki Nicole",
+    "trackName" : "Sabe",
+    "msPlayed" : 16911
+  },
+  {
+    "endTime" : "2022-01-20 23:52",
+    "artistName" : "Duki",
+    "trackName" : "Unfollow",
+    "msPlayed" : 196727
+  },
+  {
+    "endTime" : "2022-01-20 23:53",
+    "artistName" : "TINI",
+    "trackName" : "Miénteme",
+    "msPlayed" : 100148
+  },
+  {
+    "endTime" : "2022-01-20 23:53",
+    "artistName" : "Rvssian",
+    "trackName" : "Nostálgico",
+    "msPlayed" : 4804
+  },
+  {
+    "endTime" : "2022-01-21 00:04",
+    "artistName" : "Rvssian",
+    "trackName" : "Nostálgico",
+    "msPlayed" : 2925
+  },
+  {
+    "endTime" : "2022-01-21 23:52",
+    "artistName" : "Los Auténticos Decadentes",
+    "trackName" : "Luna de Miel en la Mano",
+    "msPlayed" : 168096
+  },
+  {
+    "endTime" : "2022-01-21 23:58",
+    "artistName" : "Guasones",
+    "trackName" : "Infierno Blanco",
+    "msPlayed" : 316106
+  },
+  {
+    "endTime" : "2022-01-22 00:02",
+    "artistName" : "Babasónicos",
+    "trackName" : "Como Eran Las Cosas",
+    "msPlayed" : 240520
+  },
+  {
+    "endTime" : "2022-01-22 00:05",
+    "artistName" : "Bandalos Chinos",
+    "trackName" : "Paranoia Pop",
+    "msPlayed" : 232226
+  },
+  {
+    "endTime" : "2022-01-22 00:07",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Otra Oportunidad",
+    "msPlayed" : 92715
+  },
+  {
+    "endTime" : "2022-01-22 00:21",
+    "artistName" : "Soda Stereo",
+    "trackName" : "En La Ciudad De La Furia - Remasterizado 2007",
+    "msPlayed" : 182031
+  },
+  {
+    "endTime" : "2022-01-22 09:18",
+    "artistName" : "Soda Stereo",
+    "trackName" : "En La Ciudad De La Furia - Remasterizado 2007",
+    "msPlayed" : 11616
+  },
+  {
+    "endTime" : "2022-01-22 09:19",
+    "artistName" : "Charly García",
+    "trackName" : "Necesito Tu Amor",
+    "msPlayed" : 29822
+  },
+  {
+    "endTime" : "2022-01-22 09:19",
+    "artistName" : "Salastkbron",
+    "trackName" : "TITAN",
+    "msPlayed" : 1014
+  },
+  {
+    "endTime" : "2022-01-22 09:21",
+    "artistName" : "Duki",
+    "trackName" : "TOP 5",
+    "msPlayed" : 146815
+  },
+  {
+    "endTime" : "2022-01-22 09:35",
+    "artistName" : "FMK",
+    "trackName" : "Tranquila",
+    "msPlayed" : 55856
+  },
+  {
+    "endTime" : "2022-01-22 10:11",
+    "artistName" : "FMK",
+    "trackName" : "Tranquila",
+    "msPlayed" : 128128
+  },
+  {
+    "endTime" : "2022-01-22 10:13",
+    "artistName" : "Alan Gomez",
+    "trackName" : "MESITA | Mission 05",
+    "msPlayed" : 136144
+  },
+  {
+    "endTime" : "2022-01-22 10:14",
+    "artistName" : "Trueno",
+    "trackName" : "FEEL ME??",
+    "msPlayed" : 31191
+  },
+  {
+    "endTime" : "2022-01-22 10:16",
+    "artistName" : "Trueno",
+    "trackName" : "FEEL ME??",
+    "msPlayed" : 154969
+  },
+  {
+    "endTime" : "2022-01-22 10:18",
+    "artistName" : "Kaleb Di Masi",
+    "trackName" : "KALEB DI MASI | DJ TAO Turreo Sessions #5",
+    "msPlayed" : 147657
+  },
+  {
+    "endTime" : "2022-01-22 10:52",
+    "artistName" : "Duki",
+    "trackName" : "YIN YAN",
+    "msPlayed" : 57004
+  },
+  {
+    "endTime" : "2022-01-22 20:45",
+    "artistName" : "Duki",
+    "trackName" : "YIN YAN",
+    "msPlayed" : 133666
+  },
+  {
+    "endTime" : "2022-01-22 20:48",
+    "artistName" : "Tiago PZK",
+    "trackName" : "Entre Nosotros",
+    "msPlayed" : 192352
+  },
+  {
+    "endTime" : "2022-01-22 20:51",
+    "artistName" : "La K'onga",
+    "trackName" : "El Mismo Aire",
+    "msPlayed" : 142709
+  },
+  {
+    "endTime" : "2022-01-22 21:20",
+    "artistName" : "Almendra",
+    "trackName" : "Laura Va",
+    "msPlayed" : 167906
+  },
+  {
+    "endTime" : "2022-01-22 21:25",
+    "artistName" : "Kevin Johansen",
+    "trackName" : "Fin de Fiesta",
+    "msPlayed" : 305240
+  },
+  {
+    "endTime" : "2022-01-22 21:30",
+    "artistName" : "Pedro Guerra",
+    "trackName" : "Cuidame (Directo Libertad 8) (with Jorge Drexler)",
+    "msPlayed" : 299826
+  },
+  {
+    "endTime" : "2022-01-22 21:35",
+    "artistName" : "La Vela Puerca",
+    "trackName" : "La Luna de Neuquén",
+    "msPlayed" : 260523
+  },
+  {
+    "endTime" : "2022-01-22 21:38",
+    "artistName" : "Jerónimo Verdún",
+    "trackName" : "Desdibujando",
+    "msPlayed" : 216161
+  },
+  {
+    "endTime" : "2022-01-22 21:42",
+    "artistName" : "Divididos",
+    "trackName" : "Spaghetti del Rock",
+    "msPlayed" : 212880
+  },
+  {
+    "endTime" : "2022-01-22 21:46",
+    "artistName" : "Fito Paez",
+    "trackName" : "Cancion Sobre Cancion",
+    "msPlayed" : 228306
+  },
+  {
+    "endTime" : "2022-01-22 21:50",
+    "artistName" : "Charly García",
+    "trackName" : "Nuevos Trapos",
+    "msPlayed" : 245040
+  },
+  {
+    "endTime" : "2022-01-22 21:55",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "He Visto a Lucy",
+    "msPlayed" : 331453
+  },
+  {
+    "endTime" : "2022-01-22 21:58",
+    "artistName" : "Fito Paez",
+    "trackName" : "Pétalo de sal",
+    "msPlayed" : 163280
+  },
+  {
+    "endTime" : "2022-01-22 22:02",
+    "artistName" : "Fito Paez",
+    "trackName" : "Brillante sobre el mic",
+    "msPlayed" : 248560
+  },
+  {
+    "endTime" : "2022-01-22 22:06",
+    "artistName" : "Charly García",
+    "trackName" : "La Ruta del Tentempié",
+    "msPlayed" : 260013
+  },
+  {
+    "endTime" : "2022-01-22 22:10",
+    "artistName" : "Ricardo Soule",
+    "trackName" : "Presente (El Momento en Que Estás) - 50º Aniversario",
+    "msPlayed" : 228144
+  },
+  {
+    "endTime" : "2022-01-22 22:13",
+    "artistName" : "Charly García",
+    "trackName" : "Necesito Tu Amor",
+    "msPlayed" : 216186
+  },
+  {
+    "endTime" : "2022-01-22 22:17",
+    "artistName" : "Charly García",
+    "trackName" : "Chipi Chipi - Live",
+    "msPlayed" : 223200
+  },
+  {
+    "endTime" : "2022-01-22 22:21",
+    "artistName" : "Sui Generis",
+    "trackName" : "Música de Fondo para Cualquier Fiesta Animada",
+    "msPlayed" : 275240
+  },
+  {
+    "endTime" : "2022-01-22 22:24",
+    "artistName" : "Almendra",
+    "trackName" : "Muchacha (Ojos de Papel)",
+    "msPlayed" : 184480
+  },
+  {
+    "endTime" : "2022-01-22 22:27",
+    "artistName" : "Charly García",
+    "trackName" : "De Mí",
+    "msPlayed" : 175373
+  },
+  {
+    "endTime" : "2022-01-22 22:33",
+    "artistName" : "Sui Generis",
+    "trackName" : "Tribulaciones, Lamento y Ocaso de un Tonto Rey Imaginario o No",
+    "msPlayed" : 358973
+  },
+  {
+    "endTime" : "2022-01-22 22:38",
+    "artistName" : "Fito Paez",
+    "trackName" : "Un Vestido Y Un Amor",
+    "msPlayed" : 277066
+  },
+  {
+    "endTime" : "2022-01-22 22:42",
+    "artistName" : "Sui Generis",
+    "trackName" : "El Día Que Apagaron La Luz",
+    "msPlayed" : 270986
+  },
+  {
+    "endTime" : "2022-01-22 22:45",
+    "artistName" : "David Lebón",
+    "trackName" : "Parado en el Medio de la Vida (feat. Andrés Calamaro)",
+    "msPlayed" : 145408
+  },
+  {
+    "endTime" : "2022-01-22 22:50",
+    "artistName" : "Fito Paez",
+    "trackName" : "Parte Del Aire",
+    "msPlayed" : 305493
+  },
+  {
+    "endTime" : "2022-01-22 22:53",
+    "artistName" : "Serú Girán",
+    "trackName" : "Viernes 3 AM",
+    "msPlayed" : 57909
+  },
+  {
+    "endTime" : "2022-01-22 22:58",
+    "artistName" : "Guasones",
+    "trackName" : "La Flaca Pili y el Negro Tomás - En Vivo Acústico",
+    "msPlayed" : 303173
+  },
+  {
+    "endTime" : "2022-01-22 23:03",
+    "artistName" : "Alejandro Sanz",
+    "trackName" : "La Música No Se Toca",
+    "msPlayed" : 288640
+  },
+  {
+    "endTime" : "2022-01-22 23:07",
+    "artistName" : "Jorge Fandermole",
+    "trackName" : "Sueñero",
+    "msPlayed" : 272986
+  },
+  {
+    "endTime" : "2022-01-22 23:11",
+    "artistName" : "Pedro Aznar",
+    "trackName" : "A Primera Vista",
+    "msPlayed" : 208240
+  },
+  {
+    "endTime" : "2022-01-22 23:15",
+    "artistName" : "Jorge Drexler",
+    "trackName" : "Guitarra y vos",
+    "msPlayed" : 235066
+  },
+  {
+    "endTime" : "2022-01-22 23:19",
+    "artistName" : "Jeites",
+    "trackName" : "Partículas del aire",
+    "msPlayed" : 233253
+  },
+  {
+    "endTime" : "2022-01-22 23:21",
+    "artistName" : "Jeites",
+    "trackName" : "Triste y melancólica",
+    "msPlayed" : 178760
+  },
+  {
+    "endTime" : "2022-01-22 23:25",
+    "artistName" : "Serú Girán",
+    "trackName" : "Seminare",
+    "msPlayed" : 2033
+  },
+  {
+    "endTime" : "2022-01-22 23:25",
+    "artistName" : "Mancha De Rolando",
+    "trackName" : "Donde vamos",
+    "msPlayed" : 220874
+  },
+  {
+    "endTime" : "2022-01-22 23:42",
+    "artistName" : "Jeites",
+    "trackName" : "El niño (En Vivo)",
+    "msPlayed" : 191658
+  },
+  {
+    "endTime" : "2022-01-23 02:25",
+    "artistName" : "Fito Paez",
+    "trackName" : "11 y 6",
+    "msPlayed" : 237946
+  },
+  {
+    "endTime" : "2022-01-23 02:29",
+    "artistName" : "Fito Paez",
+    "trackName" : "Tumbas De La Gloria",
+    "msPlayed" : 284853
+  },
+  {
+    "endTime" : "2022-01-23 02:34",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Rueda Mágica",
+    "msPlayed" : 256346
+  },
+  {
+    "endTime" : "2022-01-23 02:38",
+    "artistName" : "Fito Paez",
+    "trackName" : "Eso Que Llevas Ahí",
+    "msPlayed" : 224506
+  },
+  {
+    "endTime" : "2022-01-23 02:40",
+    "artistName" : "Fito Paez",
+    "trackName" : "El Amor Después Del Amor",
+    "msPlayed" : 109466
+  },
+  {
+    "endTime" : "2022-01-23 02:45",
+    "artistName" : "Fito Paez",
+    "trackName" : "Dos Días En La Vida",
+    "msPlayed" : 279946
+  },
+  {
+    "endTime" : "2022-01-23 02:50",
+    "artistName" : "Fito Paez",
+    "trackName" : "Brillante Sobre El Mic",
+    "msPlayed" : 288506
+  },
+  {
+    "endTime" : "2022-01-23 02:54",
+    "artistName" : "Fito Paez",
+    "trackName" : "Yo Vengo A Ofrecer Mi Corazón",
+    "msPlayed" : 265906
+  },
+  {
+    "endTime" : "2022-01-23 02:58",
+    "artistName" : "Fito Paez",
+    "trackName" : "Giros",
+    "msPlayed" : 213906
+  },
+  {
+    "endTime" : "2022-01-23 03:07",
+    "artistName" : "Fito Paez",
+    "trackName" : "Al Lado Del Camino",
+    "msPlayed" : 432680
+  },
+  {
+    "endTime" : "2022-01-23 03:07",
+    "artistName" : "Fito Paez",
+    "trackName" : "Un Vestido Y Un Amor",
+    "msPlayed" : 8324
+  },
+  {
+    "endTime" : "2022-01-23 03:13",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Rumba Del Piano",
+    "msPlayed" : 357600
+  },
+  {
+    "endTime" : "2022-01-23 03:16",
+    "artistName" : "Fito Paez",
+    "trackName" : "Pétalo De Sal",
+    "msPlayed" : 172693
+  },
+  {
+    "endTime" : "2022-01-23 03:20",
+    "artistName" : "Fito Paez",
+    "trackName" : "Dar Es Dar",
+    "msPlayed" : 219853
+  },
+  {
+    "endTime" : "2022-01-23 03:25",
+    "artistName" : "Fito Paez",
+    "trackName" : "Mariposa Tecknicolor",
+    "msPlayed" : 334565
+  },
+  {
+    "endTime" : "2022-01-25 02:20",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Crimen",
+    "msPlayed" : 18570
+  },
+  {
+    "endTime" : "2022-01-25 02:31",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Crimen",
+    "msPlayed" : 213480
+  },
+  {
+    "endTime" : "2022-01-25 02:34",
+    "artistName" : "El Zar",
+    "trackName" : "El Momento Perfecto",
+    "msPlayed" : 201661
+  },
+  {
+    "endTime" : "2022-01-25 02:38",
+    "artistName" : "Coldplay",
+    "trackName" : "Let Somebody Go",
+    "msPlayed" : 241595
+  },
+  {
+    "endTime" : "2022-01-25 02:41",
+    "artistName" : "Divididos",
+    "trackName" : "Spaghetti del Rock",
+    "msPlayed" : 212880
+  },
+  {
+    "endTime" : "2022-01-25 02:44",
+    "artistName" : "Fito Paez",
+    "trackName" : "11 Y 6",
+    "msPlayed" : 178266
+  },
+  {
+    "endTime" : "2022-01-25 02:48",
+    "artistName" : "Serú Girán",
+    "trackName" : "Peperina",
+    "msPlayed" : 220280
+  },
+  {
+    "endTime" : "2022-01-25 02:52",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Cactus",
+    "msPlayed" : 234760
+  },
+  {
+    "endTime" : "2022-01-25 02:55",
+    "artistName" : "Sui Generis",
+    "trackName" : "Rasguña las Piedras",
+    "msPlayed" : 191226
+  },
+  {
+    "endTime" : "2022-01-25 02:56",
+    "artistName" : "Serú Girán",
+    "trackName" : "Llorando En El Espejo",
+    "msPlayed" : 83021
+  },
+  {
+    "endTime" : "2022-01-25 03:07",
+    "artistName" : "Rosarinos",
+    "trackName" : "Corazon De Barco",
+    "msPlayed" : 229400
+  },
+  {
+    "endTime" : "2022-01-25 03:11",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Música de los Sueños de Tu Juventud",
+    "msPlayed" : 253781
+  },
+  {
+    "endTime" : "2022-01-25 03:15",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Canción Animal - Remasterizado 2007",
+    "msPlayed" : 247453
+  },
+  {
+    "endTime" : "2022-01-25 03:21",
+    "artistName" : "Sui Generis",
+    "trackName" : "Tribulaciones, Lamento y Ocaso de un Tonto Rey Imaginario o No",
+    "msPlayed" : 358973
+  },
+  {
+    "endTime" : "2022-01-25 03:22",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Seguir Viviendo Sin Tu Amor",
+    "msPlayed" : 45508
+  },
+  {
+    "endTime" : "2022-01-25 03:26",
+    "artistName" : "Charly García",
+    "trackName" : "La Ruta del Tentempié",
+    "msPlayed" : 260013
+  },
+  {
+    "endTime" : "2022-01-25 03:31",
+    "artistName" : "Charly García",
+    "trackName" : "Nuevos Trapos",
+    "msPlayed" : 245040
+  },
+  {
+    "endTime" : "2022-01-25 03:41",
+    "artistName" : "Almendra",
+    "trackName" : "Plegaria para un Niño Dormido",
+    "msPlayed" : 153904
+  },
+  {
+    "endTime" : "2022-01-25 14:58",
+    "artistName" : "Almendra",
+    "trackName" : "Muchacha (Ojos de Papel)",
+    "msPlayed" : 184480
+  },
+  {
+    "endTime" : "2022-01-25 15:01",
+    "artistName" : "Almendra",
+    "trackName" : "Laura Va",
+    "msPlayed" : 167906
+  },
+  {
+    "endTime" : "2022-01-25 15:04",
+    "artistName" : "Almendra",
+    "trackName" : "Figuración",
+    "msPlayed" : 209000
+  },
+  {
+    "endTime" : "2022-01-25 15:07",
+    "artistName" : "Almendra",
+    "trackName" : "Ana No Duerme",
+    "msPlayed" : 162093
+  },
+  {
+    "endTime" : "2022-01-25 15:13",
+    "artistName" : "Almendra",
+    "trackName" : "A Estos Hombres Tristes",
+    "msPlayed" : 356746
+  },
+  {
+    "endTime" : "2022-01-25 15:14",
+    "artistName" : "Almendra",
+    "trackName" : "Color Humano",
+    "msPlayed" : 81722
+  },
+  {
+    "endTime" : "2022-01-25 15:14",
+    "artistName" : "Almendra",
+    "trackName" : "Figuración",
+    "msPlayed" : 12321
+  },
+  {
+    "endTime" : "2022-01-25 15:18",
+    "artistName" : "Serú Girán",
+    "trackName" : "Viernes 3 AM",
+    "msPlayed" : 244546
+  },
+  {
+    "endTime" : "2022-01-25 15:22",
+    "artistName" : "Pescado Rabioso",
+    "trackName" : "Las Habladurias del Mundo",
+    "msPlayed" : 243266
+  },
+  {
+    "endTime" : "2022-01-25 15:24",
+    "artistName" : "Pescado Rabioso",
+    "trackName" : "Todas las Hojas Son del Viento",
+    "msPlayed" : 130080
+  },
+  {
+    "endTime" : "2022-01-25 15:28",
+    "artistName" : "Invisible",
+    "trackName" : "Durazno Sangrando",
+    "msPlayed" : 219186
+  },
+  {
+    "endTime" : "2022-01-25 15:30",
+    "artistName" : "Almendra",
+    "trackName" : "Figuración",
+    "msPlayed" : 146188
+  },
+  {
+    "endTime" : "2022-01-25 15:31",
+    "artistName" : "Almendra",
+    "trackName" : "Para Saber Como Es la Soledad",
+    "msPlayed" : 49443
+  },
+  {
+    "endTime" : "2022-01-25 15:36",
+    "artistName" : "Fito Paez",
+    "trackName" : "Brillante Sobre El Mic",
+    "msPlayed" : 288506
+  },
+  {
+    "endTime" : "2022-01-25 15:40",
+    "artistName" : "No Te Va Gustar",
+    "trackName" : "De Nada Sirve",
+    "msPlayed" : 237873
+  },
+  {
+    "endTime" : "2022-01-25 15:44",
+    "artistName" : "Babasónicos",
+    "trackName" : "Putita - En Vivo",
+    "msPlayed" : 221906
+  },
+  {
+    "endTime" : "2022-01-25 15:47",
+    "artistName" : "Babasónicos",
+    "trackName" : "Irresponsables - En Vivo",
+    "msPlayed" : 149079
+  },
+  {
+    "endTime" : "2022-01-25 15:50",
+    "artistName" : "No Te Va Gustar",
+    "trackName" : "Té para Tres",
+    "msPlayed" : 143769
+  },
+  {
+    "endTime" : "2022-01-25 15:55",
+    "artistName" : "Alejandro Sanz",
+    "trackName" : "Cuando nadie me ve - Unplugged",
+    "msPlayed" : 306026
+  },
+  {
+    "endTime" : "2022-01-25 16:09",
+    "artistName" : "Silvio Rodríguez",
+    "trackName" : "Ojalá",
+    "msPlayed" : 74194
+  },
+  {
+    "endTime" : "2022-01-25 23:46",
+    "artistName" : "Almendra",
+    "trackName" : "Muchacha (Ojos de Papel)",
+    "msPlayed" : 184480
+  },
+  {
+    "endTime" : "2022-01-25 23:48",
+    "artistName" : "Almendra",
+    "trackName" : "Figuración",
+    "msPlayed" : 108747
+  },
+  {
+    "endTime" : "2022-01-25 23:50",
+    "artistName" : "Charly García",
+    "trackName" : "Demoliendo Hoteles",
+    "msPlayed" : 135973
+  },
+  {
+    "endTime" : "2022-01-25 23:54",
+    "artistName" : "Charly García",
+    "trackName" : "Raros Peinados Nuevos",
+    "msPlayed" : 214760
+  },
+  {
+    "endTime" : "2022-01-25 23:57",
+    "artistName" : "Charly García",
+    "trackName" : "Tuve Tu Amor",
+    "msPlayed" : 210053
+  },
+  {
+    "endTime" : "2022-01-26 00:02",
+    "artistName" : "Charly García",
+    "trackName" : "Cerca De La Revolucion",
+    "msPlayed" : 280546
+  },
+  {
+    "endTime" : "2022-01-26 00:06",
+    "artistName" : "Charly García",
+    "trackName" : "Cancion Para Mi Muerte - Bonus Track",
+    "msPlayed" : 244600
+  },
+  {
+    "endTime" : "2022-01-26 00:10",
+    "artistName" : "La Maquina De Hacer Pájaros",
+    "trackName" : "Hipercandombe",
+    "msPlayed" : 270626
+  },
+  {
+    "endTime" : "2022-01-26 00:15",
+    "artistName" : "Pescado Rabioso",
+    "trackName" : "Cementerio Club",
+    "msPlayed" : 295826
+  },
+  {
+    "endTime" : "2022-01-26 00:16",
+    "artistName" : "Almendra",
+    "trackName" : "A Estos Hombres Tristes",
+    "msPlayed" : 57238
+  },
+  {
+    "endTime" : "2022-01-26 00:19",
+    "artistName" : "La Joven Guardia",
+    "trackName" : "El Extraño del Pelo Largo",
+    "msPlayed" : 166253
+  },
+  {
+    "endTime" : "2022-01-26 00:24",
+    "artistName" : "Soda Stereo",
+    "trackName" : "En La Ciudad De La Furia - Remasterizado 2007",
+    "msPlayed" : 355669
+  },
+  {
+    "endTime" : "2022-01-26 00:28",
+    "artistName" : "Fito Paez",
+    "trackName" : "Beer Blues (feat. Elvis Costello)",
+    "msPlayed" : 198922
+  },
+  {
+    "endTime" : "2022-01-26 00:30",
+    "artistName" : "Pescado Rabioso",
+    "trackName" : "Post-Crucifixion",
+    "msPlayed" : 114136
+  },
+  {
+    "endTime" : "2022-01-26 00:33",
+    "artistName" : "Charly García",
+    "trackName" : "Nos Siguen Pegando Abajo",
+    "msPlayed" : 206720
+  },
+  {
+    "endTime" : "2022-01-26 00:37",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Canción Animal - Remasterizado 2007",
+    "msPlayed" : 217725
+  },
+  {
+    "endTime" : "2022-01-26 00:41",
+    "artistName" : "No Te Va Gustar",
+    "trackName" : "De Nada Sirve",
+    "msPlayed" : 237873
+  },
+  {
+    "endTime" : "2022-01-26 00:44",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "30 Años",
+    "msPlayed" : 195986
+  },
+  {
+    "endTime" : "2022-01-26 00:48",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Se Me Hizo Tarde",
+    "msPlayed" : 237636
+  },
+  {
+    "endTime" : "2022-01-26 00:52",
+    "artistName" : "Serú Girán",
+    "trackName" : "Mundo Agradable",
+    "msPlayed" : 251026
+  },
+  {
+    "endTime" : "2022-01-26 00:56",
+    "artistName" : "Jarabe De Palo",
+    "trackName" : "La flaca",
+    "msPlayed" : 261200
+  },
+  {
+    "endTime" : "2022-01-26 01:01",
+    "artistName" : "Gustavo Cordera",
+    "trackName" : "Soy Mi Soberano",
+    "msPlayed" : 182225
+  },
+  {
+    "endTime" : "2022-01-26 01:05",
+    "artistName" : "Silvestre y La Naranja",
+    "trackName" : "Amores Callejeros",
+    "msPlayed" : 253594
+  },
+  {
+    "endTime" : "2022-01-26 01:11",
+    "artistName" : "Ratones Paranoicos",
+    "trackName" : "La Nave - Vivo",
+    "msPlayed" : 357754
+  },
+  {
+    "endTime" : "2022-01-26 01:15",
+    "artistName" : "Guasones",
+    "trackName" : "Espejo Roto",
+    "msPlayed" : 228819
+  },
+  {
+    "endTime" : "2022-01-26 01:17",
+    "artistName" : "La Renga",
+    "trackName" : "Triste Canción De Amor",
+    "msPlayed" : 135316
+  },
+  {
+    "endTime" : "2022-01-26 01:21",
+    "artistName" : "León Gieco",
+    "trackName" : "El Fantasma de Canterville",
+    "msPlayed" : 228346
+  },
+  {
+    "endTime" : "2022-01-26 01:24",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Ya No Mires Atrás",
+    "msPlayed" : 25447
+  },
+  {
+    "endTime" : "2022-01-26 01:24",
+    "artistName" : "Charly García",
+    "trackName" : "Chipi-Chipi",
+    "msPlayed" : 186466
+  },
+  {
+    "endTime" : "2022-01-26 01:28",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Loco en el Desierto",
+    "msPlayed" : 257176
+  },
+  {
+    "endTime" : "2022-01-26 01:29",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "A la Vez",
+    "msPlayed" : 20581
+  },
+  {
+    "endTime" : "2022-01-26 01:33",
+    "artistName" : "Intoxicados",
+    "trackName" : "Reggae para Mirtha - Remasterizado 2020",
+    "msPlayed" : 210070
+  },
+  {
+    "endTime" : "2022-01-26 15:35",
+    "artistName" : "DIVAGAR",
+    "trackName" : "Elizabeth Vernaci",
+    "msPlayed" : 490503
+  },
+  {
+    "endTime" : "2022-01-26 15:39",
+    "artistName" : "FINNEAS",
+    "trackName" : "I Lost a Friend",
+    "msPlayed" : 237020
+  },
+  {
+    "endTime" : "2022-01-26 15:43",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Vos y Yo",
+    "msPlayed" : 204091
+  },
+  {
+    "endTime" : "2022-01-26 15:46",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "Los Amigos",
+    "msPlayed" : 206607
+  },
+  {
+    "endTime" : "2022-01-26 15:50",
+    "artistName" : "Tan Bionica",
+    "trackName" : "Obsesionario en La Mayor",
+    "msPlayed" : 266840
+  },
+  {
+    "endTime" : "2022-01-26 15:54",
+    "artistName" : "Nathy Peluso",
+    "trackName" : "BUENOS AIRES",
+    "msPlayed" : 240315
+  },
+  {
+    "endTime" : "2022-01-26 15:58",
+    "artistName" : "Tan Bionica",
+    "trackName" : "Beautiful",
+    "msPlayed" : 216386
+  },
+  {
+    "endTime" : "2022-01-26 16:02",
+    "artistName" : "Coldplay",
+    "trackName" : "Let Somebody Go",
+    "msPlayed" : 241595
+  },
+  {
+    "endTime" : "2022-01-26 16:04",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Heart Of The Country - Remastered 2012",
+    "msPlayed" : 143173
+  },
+  {
+    "endTime" : "2022-01-26 16:08",
+    "artistName" : "George Five",
+    "trackName" : "Chaos & Soul - Live",
+    "msPlayed" : 235080
+  },
+  {
+    "endTime" : "2022-01-26 16:11",
+    "artistName" : "FINNEAS",
+    "trackName" : "Let's Fall in Love for the Night",
+    "msPlayed" : 190348
+  },
+  {
+    "endTime" : "2022-01-26 16:15",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Bad Habits",
+    "msPlayed" : 230746
+  },
+  {
+    "endTime" : "2022-01-26 16:19",
+    "artistName" : "Michael Jackson",
+    "trackName" : "Smooth Criminal - 2012 Remaster",
+    "msPlayed" : 257760
+  },
+  {
+    "endTime" : "2022-01-26 16:22",
+    "artistName" : "Imagine Dragons",
+    "trackName" : "Whatever It Takes",
+    "msPlayed" : 201240
+  },
+  {
+    "endTime" : "2022-01-26 16:25",
+    "artistName" : "Oasis",
+    "trackName" : "Don't Look Back in Anger - Remastered",
+    "msPlayed" : 147637
+  },
+  {
+    "endTime" : "2022-01-26 17:31",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "The Joker And The Queen",
+    "msPlayed" : 185586
+  },
+  {
+    "endTime" : "2022-01-26 17:33",
+    "artistName" : "The Beatles",
+    "trackName" : "It's Only Love - Remastered 2009",
+    "msPlayed" : 116480
+  },
+  {
+    "endTime" : "2022-01-26 17:37",
+    "artistName" : "Coldplay",
+    "trackName" : "Let Somebody Go",
+    "msPlayed" : 241595
+  },
+  {
+    "endTime" : "2022-01-26 17:39",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Heart Of The Country - Remastered 2012",
+    "msPlayed" : 143173
+  },
+  {
+    "endTime" : "2022-01-26 17:42",
+    "artistName" : "FINNEAS",
+    "trackName" : "Let's Fall in Love for the Night",
+    "msPlayed" : 190348
+  },
+  {
+    "endTime" : "2022-01-26 18:03",
+    "artistName" : "FINNEAS",
+    "trackName" : "I Lost a Friend",
+    "msPlayed" : 14886
+  },
+  {
+    "endTime" : "2022-01-26 20:36",
+    "artistName" : "Charly García",
+    "trackName" : "Demoliendo Hoteles",
+    "msPlayed" : 135973
+  },
+  {
+    "endTime" : "2022-01-26 20:39",
+    "artistName" : "Charly García",
+    "trackName" : "No Toquen",
+    "msPlayed" : 209560
+  },
+  {
+    "endTime" : "2022-01-26 20:41",
+    "artistName" : "Sui Generis",
+    "trackName" : "Estación",
+    "msPlayed" : 90973
+  },
+  {
+    "endTime" : "2022-01-26 20:43",
+    "artistName" : "Charly García",
+    "trackName" : "Crimen, Divina, Productor",
+    "msPlayed" : 134935
+  },
+  {
+    "endTime" : "2022-01-26 20:48",
+    "artistName" : "Charly García",
+    "trackName" : "Buscando un Símbolo de Paz",
+    "msPlayed" : 282840
+  },
+  {
+    "endTime" : "2022-01-26 20:51",
+    "artistName" : "Charly García",
+    "trackName" : "Amigos de Dios",
+    "msPlayed" : 225986
+  },
+  {
+    "endTime" : "2022-01-26 20:52",
+    "artistName" : "Charly García",
+    "trackName" : "Transatlántico Art Deco",
+    "msPlayed" : 37242
+  },
+  {
+    "endTime" : "2022-01-26 20:57",
+    "artistName" : "Sui Generis",
+    "trackName" : "Instituciones",
+    "msPlayed" : 288826
+  },
+  {
+    "endTime" : "2022-01-26 21:02",
+    "artistName" : "Sui Generis",
+    "trackName" : "Natalio Ruiz, el Hombrecito del Sombrero Gris",
+    "msPlayed" : 17522
+  },
+  {
+    "endTime" : "2022-01-26 21:02",
+    "artistName" : "Charly García",
+    "trackName" : "Rezo Por Vos - Live",
+    "msPlayed" : 288200
+  },
+  {
+    "endTime" : "2022-01-26 21:06",
+    "artistName" : "Charly García",
+    "trackName" : "Hablando a Tu Corazón",
+    "msPlayed" : 137257
+  },
+  {
+    "endTime" : "2022-01-26 21:10",
+    "artistName" : "Wolty",
+    "trackName" : "Q.E.P.D",
+    "msPlayed" : 219567
+  },
+  {
+    "endTime" : "2022-01-26 21:13",
+    "artistName" : "Trueno",
+    "trackName" : "FEEL ME??",
+    "msPlayed" : 187331
+  },
+  {
+    "endTime" : "2022-01-26 21:17",
+    "artistName" : "LIT killah",
+    "trackName" : "A tus Pies",
+    "msPlayed" : 211964
+  },
+  {
+    "endTime" : "2022-01-26 21:20",
+    "artistName" : "LIT killah",
+    "trackName" : "Dejame Tranki",
+    "msPlayed" : 222428
+  },
+  {
+    "endTime" : "2022-01-26 21:21",
+    "artistName" : "Wolty",
+    "trackName" : "Fuck That",
+    "msPlayed" : 17748
+  },
+  {
+    "endTime" : "2022-01-26 21:21",
+    "artistName" : "Wolty",
+    "trackName" : "W@n",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2022-01-26 21:24",
+    "artistName" : "Bizarrap",
+    "trackName" : "Morad: Bzrp Music Sessions, Vol. 47",
+    "msPlayed" : 177583
+  },
+  {
+    "endTime" : "2022-01-26 21:27",
+    "artistName" : "Duki",
+    "trackName" : "TOP 5",
+    "msPlayed" : 146815
+  },
+  {
+    "endTime" : "2022-01-26 21:30",
+    "artistName" : "Eladio Carrion",
+    "trackName" : "Sin Frenos",
+    "msPlayed" : 211394
+  },
+  {
+    "endTime" : "2022-01-26 22:12",
+    "artistName" : "Duki",
+    "trackName" : "YIN YAN",
+    "msPlayed" : 186224
+  },
+  {
+    "endTime" : "2022-01-27 13:00",
+    "artistName" : "Duki",
+    "trackName" : "TOP 5",
+    "msPlayed" : 146815
+  },
+  {
+    "endTime" : "2022-01-27 13:03",
+    "artistName" : "Duki",
+    "trackName" : "Unfollow",
+    "msPlayed" : 196727
+  },
+  {
+    "endTime" : "2022-01-27 13:06",
+    "artistName" : "WOS",
+    "trackName" : "MELÓN VINO",
+    "msPlayed" : 176394
+  },
+  {
+    "endTime" : "2022-01-27 13:09",
+    "artistName" : "Paulo",
+    "trackName" : "Cámara Lenta",
+    "msPlayed" : 195465
+  },
+  {
+    "endTime" : "2022-01-27 13:13",
+    "artistName" : "Rochy RD",
+    "trackName" : "Ella No Es Tuya - Remix",
+    "msPlayed" : 218106
+  },
+  {
+    "endTime" : "2022-01-27 13:17",
+    "artistName" : "Duki",
+    "trackName" : "BICI",
+    "msPlayed" : 248966
+  },
+  {
+    "endTime" : "2022-01-27 13:20",
+    "artistName" : "WOS",
+    "trackName" : "MIRÁ MAMÁ",
+    "msPlayed" : 169536
+  },
+  {
+    "endTime" : "2022-01-27 13:22",
+    "artistName" : "WOS",
+    "trackName" : "CAMBIANDO LA PIEL",
+    "msPlayed" : 158121
+  },
+  {
+    "endTime" : "2022-01-27 13:25",
+    "artistName" : "CA7RIEL",
+    "trackName" : "MUY BIEN",
+    "msPlayed" : 142708
+  },
+  {
+    "endTime" : "2022-01-27 13:29",
+    "artistName" : "Canserbero",
+    "trackName" : "Stupid Love Story",
+    "msPlayed" : 282697
+  },
+  {
+    "endTime" : "2022-01-27 13:30",
+    "artistName" : "Tiago PZK",
+    "trackName" : "Salimo de Noche",
+    "msPlayed" : 32323
+  },
+  {
+    "endTime" : "2022-01-27 13:32",
+    "artistName" : "Duki",
+    "trackName" : "Volando Bajito",
+    "msPlayed" : 134666
+  },
+  {
+    "endTime" : "2022-01-27 13:35",
+    "artistName" : "LIT killah",
+    "trackName" : "California",
+    "msPlayed" : 202285
+  },
+  {
+    "endTime" : "2022-01-27 13:38",
+    "artistName" : "LIT killah",
+    "trackName" : "Mala Mía",
+    "msPlayed" : 190928
+  },
+  {
+    "endTime" : "2022-01-27 13:41",
+    "artistName" : "Bizarrap",
+    "trackName" : "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+    "msPlayed" : 160000
+  },
+  {
+    "endTime" : "2022-01-27 14:14",
+    "artistName" : "Bad Bunny",
+    "trackName" : "Hablamos Mañana",
+    "msPlayed" : 216711
+  },
+  {
+    "endTime" : "2022-01-28 13:38",
+    "artistName" : "El Zar",
+    "trackName" : "El Momento Perfecto",
+    "msPlayed" : 201661
+  },
+  {
+    "endTime" : "2022-01-28 13:42",
+    "artistName" : "Alejandro Sanz",
+    "trackName" : "Camino De Rosas",
+    "msPlayed" : 260573
+  },
+  {
+    "endTime" : "2022-01-28 13:46",
+    "artistName" : "Sui Generis",
+    "trackName" : "Pequeñas Delicias de la Vida Conyugal (En Vivo)",
+    "msPlayed" : 231000
+  },
+  {
+    "endTime" : "2022-01-28 13:51",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Lago en el Cielo",
+    "msPlayed" : 308946
+  },
+  {
+    "endTime" : "2022-01-28 13:54",
+    "artistName" : "Serú Girán",
+    "trackName" : "Seminare (Remasterizado 2021)",
+    "msPlayed" : 202513
+  },
+  {
+    "endTime" : "2022-01-28 13:59",
+    "artistName" : "Los Pericos",
+    "trackName" : "Anónimos (feat. Carla Morrison)",
+    "msPlayed" : 315933
+  },
+  {
+    "endTime" : "2022-01-28 14:04",
+    "artistName" : "Sui Generis",
+    "trackName" : "Noveno \"B\"",
+    "msPlayed" : 264493
+  },
+  {
+    "endTime" : "2022-01-28 14:09",
+    "artistName" : "Charly García",
+    "trackName" : "Yo No Quiero Volverme Tan Loco",
+    "msPlayed" : 310706
+  },
+  {
+    "endTime" : "2022-01-28 14:12",
+    "artistName" : "Justin Bieber",
+    "trackName" : "Trust",
+    "msPlayed" : 203613
+  },
+  {
+    "endTime" : "2022-01-28 14:13",
+    "artistName" : "The Beatles",
+    "trackName" : "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
+    "msPlayed" : 54112
+  },
+  {
+    "endTime" : "2022-01-28 14:17",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Música de los Sueños de Tu Juventud",
+    "msPlayed" : 253781
+  },
+  {
+    "endTime" : "2022-01-28 14:21",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "La Dirección",
+    "msPlayed" : 224768
+  },
+  {
+    "endTime" : "2022-01-28 14:24",
+    "artistName" : "La Vela Puerca",
+    "trackName" : "Mi Semilla",
+    "msPlayed" : 217920
+  },
+  {
+    "endTime" : "2022-01-28 14:29",
+    "artistName" : "Mancha De Rolando",
+    "trackName" : "Donde vamos",
+    "msPlayed" : 272039
+  },
+  {
+    "endTime" : "2022-01-28 14:34",
+    "artistName" : "Fito Paez",
+    "trackName" : "Brillante Sobre El Mic",
+    "msPlayed" : 288506
+  },
+  {
+    "endTime" : "2022-01-28 14:35",
+    "artistName" : "El Cuarteto De Nos",
+    "trackName" : "Yendo a la Casa de Damián",
+    "msPlayed" : 82980
+  },
+  {
+    "endTime" : "2022-01-28 14:39",
+    "artistName" : "Fito Paez",
+    "trackName" : "11 y 6",
+    "msPlayed" : 237946
+  },
+  {
+    "endTime" : "2022-01-28 14:44",
+    "artistName" : "Fito Paez",
+    "trackName" : "Mariposa Tecknicolor",
+    "msPlayed" : 338320
+  },
+  {
+    "endTime" : "2022-01-28 14:48",
+    "artistName" : "Fito Paez",
+    "trackName" : "Giros",
+    "msPlayed" : 213906
+  },
+  {
+    "endTime" : "2022-01-28 14:51",
+    "artistName" : "Fito Paez",
+    "trackName" : "Pétalo De Sal",
+    "msPlayed" : 172693
+  },
+  {
+    "endTime" : "2022-01-28 15:00",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Rueda Mágica",
+    "msPlayed" : 256346
+  },
+  {
+    "endTime" : "2022-01-28 15:02",
+    "artistName" : "Fito Paez",
+    "trackName" : "El Amor Después Del Amor",
+    "msPlayed" : 109466
+  },
+  {
+    "endTime" : "2022-01-28 15:12",
+    "artistName" : "Fito Paez",
+    "trackName" : "Dos Días En La Vida",
+    "msPlayed" : 279175
+  },
+  {
+    "endTime" : "2022-01-28 15:12",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Rumba Del Piano",
+    "msPlayed" : 1320
+  },
+  {
+    "endTime" : "2022-01-28 15:19",
+    "artistName" : "Fito Paez",
+    "trackName" : "Tumbas De La Gloria",
+    "msPlayed" : 284853
+  },
+  {
+    "endTime" : "2022-01-28 15:23",
+    "artistName" : "Fito Paez",
+    "trackName" : "Yo Vengo A Ofrecer Mi Corazón",
+    "msPlayed" : 265906
+  },
+  {
+    "endTime" : "2022-01-28 15:34",
+    "artistName" : "Jarabe De Palo",
+    "trackName" : "El Lado Oscuro - Versión 50 Palos",
+    "msPlayed" : 21994
+  },
+  {
+    "endTime" : "2022-01-28 15:38",
+    "artistName" : "FINNEAS",
+    "trackName" : "I Lost a Friend",
+    "msPlayed" : 237020
+  },
+  {
+    "endTime" : "2022-01-28 15:42",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Bad Habits",
+    "msPlayed" : 230746
+  },
+  {
+    "endTime" : "2022-01-28 15:46",
+    "artistName" : "Coldplay",
+    "trackName" : "Green Eyes",
+    "msPlayed" : 223040
+  },
+  {
+    "endTime" : "2022-01-28 15:50",
+    "artistName" : "Coldplay",
+    "trackName" : "Everglow - Live from Spotify London",
+    "msPlayed" : 255853
+  },
+  {
+    "endTime" : "2022-01-28 15:53",
+    "artistName" : "Coldplay",
+    "trackName" : "Trouble",
+    "msPlayed" : 204990
+  },
+  {
+    "endTime" : "2022-01-28 15:57",
+    "artistName" : "John Mayer",
+    "trackName" : "Slow Dancing in a Burning Room",
+    "msPlayed" : 242000
+  },
+  {
+    "endTime" : "2022-01-28 16:02",
+    "artistName" : "James Taylor",
+    "trackName" : "You've Got a Friend - 2019 Remaster",
+    "msPlayed" : 268866
+  },
+  {
+    "endTime" : "2022-01-28 16:06",
+    "artistName" : "Elton John",
+    "trackName" : "Tiny Dancer",
+    "msPlayed" : 259950
+  },
+  {
+    "endTime" : "2022-01-28 23:41",
+    "artistName" : "Charly García",
+    "trackName" : "Serú Giran Medley - Live",
+    "msPlayed" : 416133
+  },
+  {
+    "endTime" : "2022-01-28 23:44",
+    "artistName" : "Sui Generis",
+    "trackName" : "Cuando Ya Me Empiece a Quedar Solo",
+    "msPlayed" : 217960
+  },
+  {
+    "endTime" : "2022-01-28 23:49",
+    "artistName" : "Charly García",
+    "trackName" : "Total Interferencia",
+    "msPlayed" : 297986
+  },
+  {
+    "endTime" : "2022-01-28 23:54",
+    "artistName" : "Fito Paez",
+    "trackName" : "Tres Agujas",
+    "msPlayed" : 257653
+  },
+  {
+    "endTime" : "2022-01-28 23:58",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Magia",
+    "msPlayed" : 268773
+  },
+  {
+    "endTime" : "2022-01-29 00:01",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Juegos De Seducción - Remasterizado 2007",
+    "msPlayed" : 198106
+  },
+  {
+    "endTime" : "2022-01-29 00:04",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Mujer Torso y el Hombre de la Cola de Ameba",
+    "msPlayed" : 186051
+  },
+  {
+    "endTime" : "2022-01-29 00:08",
+    "artistName" : "Charly García",
+    "trackName" : "Necesito Tu Amor",
+    "msPlayed" : 216186
+  },
+  {
+    "endTime" : "2022-01-29 00:10",
+    "artistName" : "Sui Generis",
+    "trackName" : "Cuando Ya Me Empiece a Quedar Solo",
+    "msPlayed" : 139670
+  },
+  {
+    "endTime" : "2022-01-29 00:14",
+    "artistName" : "Charly García",
+    "trackName" : "Nos Siguen Pegando Abajo",
+    "msPlayed" : 206720
+  },
+  {
+    "endTime" : "2022-01-29 00:14",
+    "artistName" : "Sui Generis",
+    "trackName" : "Aprendizaje",
+    "msPlayed" : 17694
+  },
+  {
+    "endTime" : "2022-01-29 00:18",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Ya No Mires Atrás",
+    "msPlayed" : 223532
+  },
+  {
+    "endTime" : "2022-01-29 00:31",
+    "artistName" : "Charly García",
+    "trackName" : "La Ruta del Tentempié",
+    "msPlayed" : 61927
+  },
+  {
+    "endTime" : "2022-01-29 02:07",
+    "artistName" : "Las Pastillas del Abuelo",
+    "trackName" : "Otra Vuelta de Tuerca",
+    "msPlayed" : 321706
+  },
+  {
+    "endTime" : "2022-01-29 02:12",
+    "artistName" : "La Renga",
+    "trackName" : "Estalla",
+    "msPlayed" : 283133
+  },
+  {
+    "endTime" : "2022-01-29 02:17",
+    "artistName" : "Viejas Locas",
+    "trackName" : "Lo Artesanal",
+    "msPlayed" : 337720
+  },
+  {
+    "endTime" : "2022-01-29 02:21",
+    "artistName" : "Intoxicados",
+    "trackName" : "Señor Kioskero",
+    "msPlayed" : 198385
+  },
+  {
+    "endTime" : "2022-01-29 02:25",
+    "artistName" : "Attaque 77",
+    "trackName" : "Western",
+    "msPlayed" : 248386
+  },
+  {
+    "endTime" : "2022-01-29 02:33",
+    "artistName" : "Divididos",
+    "trackName" : "Ala Delta",
+    "msPlayed" : 77880
+  },
+  {
+    "endTime" : "2022-01-29 02:36",
+    "artistName" : "Charly García",
+    "trackName" : "Nos Siguen Pegando Abajo",
+    "msPlayed" : 206720
+  },
+  {
+    "endTime" : "2022-01-29 02:41",
+    "artistName" : "Los Fabulosos Cadillacs",
+    "trackName" : "El Matador",
+    "msPlayed" : 274093
+  },
+  {
+    "endTime" : "2022-01-29 02:43",
+    "artistName" : "Serú Girán",
+    "trackName" : "Popotitos - Live",
+    "msPlayed" : 105735
+  },
+  {
+    "endTime" : "2022-01-29 02:46",
+    "artistName" : "Pappo's Blues",
+    "trackName" : "Ruta 66",
+    "msPlayed" : 186906
+  },
+  {
+    "endTime" : "2022-01-29 02:48",
+    "artistName" : "Los Abuelos De La Nada",
+    "trackName" : "Así Es El Calor",
+    "msPlayed" : 158800
+  },
+  {
+    "endTime" : "2022-01-29 02:51",
+    "artistName" : "Dropkick Murphys",
+    "trackName" : "I'm Shipping Up To Boston",
+    "msPlayed" : 153600
+  },
+  {
+    "endTime" : "2022-01-29 02:56",
+    "artistName" : "Patricio Rey y sus Redonditos de Ricota",
+    "trackName" : "Ji Ji Ji",
+    "msPlayed" : 311770
+  },
+  {
+    "endTime" : "2022-01-29 03:02",
+    "artistName" : "Soda Stereo",
+    "trackName" : "En La Ciudad De La Furia - Remasterizado 2007",
+    "msPlayed" : 344893
+  },
+  {
+    "endTime" : "2022-01-29 03:13",
+    "artistName" : "Sumo",
+    "trackName" : "Heroína",
+    "msPlayed" : 79760
+  },
+  {
+    "endTime" : "2022-01-29 03:57",
+    "artistName" : "Fito Paez",
+    "trackName" : "11 y 6",
+    "msPlayed" : 237946
+  },
+  {
+    "endTime" : "2022-01-29 04:02",
+    "artistName" : "Fito Paez",
+    "trackName" : "Tumbas De La Gloria",
+    "msPlayed" : 284853
+  },
+  {
+    "endTime" : "2022-01-29 04:06",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Rueda Mágica",
+    "msPlayed" : 256346
+  },
+  {
+    "endTime" : "2022-01-29 04:10",
+    "artistName" : "Fito Paez",
+    "trackName" : "Eso Que Llevas Ahí",
+    "msPlayed" : 224506
+  },
+  {
+    "endTime" : "2022-01-29 04:12",
+    "artistName" : "Fito Paez",
+    "trackName" : "El Amor Después Del Amor",
+    "msPlayed" : 109466
+  },
+  {
+    "endTime" : "2022-01-29 04:17",
+    "artistName" : "Fito Paez",
+    "trackName" : "Dos Días En La Vida",
+    "msPlayed" : 279946
+  },
+  {
+    "endTime" : "2022-01-29 04:21",
+    "artistName" : "Fito Paez",
+    "trackName" : "Brillante Sobre El Mic",
+    "msPlayed" : 288506
+  },
+  {
+    "endTime" : "2022-01-29 04:26",
+    "artistName" : "Fito Paez",
+    "trackName" : "Yo Vengo A Ofrecer Mi Corazón",
+    "msPlayed" : 265906
+  },
+  {
+    "endTime" : "2022-01-29 04:29",
+    "artistName" : "Fito Paez",
+    "trackName" : "Giros",
+    "msPlayed" : 213906
+  },
+  {
+    "endTime" : "2022-01-29 04:37",
+    "artistName" : "Fito Paez",
+    "trackName" : "Al Lado Del Camino",
+    "msPlayed" : 432680
+  },
+  {
+    "endTime" : "2022-01-29 04:41",
+    "artistName" : "Fito Paez",
+    "trackName" : "Un Vestido Y Un Amor",
+    "msPlayed" : 277066
+  },
+  {
+    "endTime" : "2022-01-29 04:47",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Rumba Del Piano",
+    "msPlayed" : 357600
+  },
+  {
+    "endTime" : "2022-01-29 04:59",
+    "artistName" : "Fito Paez",
+    "trackName" : "Pétalo De Sal",
+    "msPlayed" : 32610
+  },
+  {
+    "endTime" : "2022-01-29 23:41",
+    "artistName" : "Gorillaz",
+    "trackName" : "Saturnz Barz (feat. Popcaan)",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2022-01-29 23:41",
+    "artistName" : "John Mayer",
+    "trackName" : "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+    "msPlayed" : 263372
+  },
+  {
+    "endTime" : "2022-01-29 23:44",
+    "artistName" : "Billy Joel",
+    "trackName" : "She's Always a Woman",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2022-01-29 23:44",
+    "artistName" : "The Beatles",
+    "trackName" : "In My Life - Remastered 2009",
+    "msPlayed" : 146132
+  },
+  {
+    "endTime" : "2022-01-29 23:45",
+    "artistName" : "Billy Joel",
+    "trackName" : "She's Always a Woman",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2022-01-30 06:36",
+    "artistName" : "C.R.O",
+    "trackName" : "INTERESTELAR",
+    "msPlayed" : 173333
+  },
+  {
+    "endTime" : "2022-01-30 06:46",
+    "artistName" : "C.R.O",
+    "trackName" : "Cafe",
+    "msPlayed" : 1621
+  },
+  {
+    "endTime" : "2022-01-31 21:49",
+    "artistName" : "LIT killah",
+    "trackName" : "California",
+    "msPlayed" : 202285
+  },
+  {
+    "endTime" : "2022-01-31 21:52",
+    "artistName" : "LIT killah",
+    "trackName" : "My Bag",
+    "msPlayed" : 210642
+  },
+  {
+    "endTime" : "2022-01-31 21:54",
+    "artistName" : "LIT killah",
+    "trackName" : "A tus Pies",
+    "msPlayed" : 115368
+  },
+  {
+    "endTime" : "2022-01-31 21:57",
+    "artistName" : "LIT killah",
+    "trackName" : "Ese Mensaje",
+    "msPlayed" : 153857
+  },
+  {
+    "endTime" : "2022-01-31 22:00",
+    "artistName" : "LIT killah",
+    "trackName" : "Dejame Tranki",
+    "msPlayed" : 222428
+  },
+  {
+    "endTime" : "2022-01-31 22:03",
+    "artistName" : "LIT killah",
+    "trackName" : "Mala Mía",
+    "msPlayed" : 190928
+  },
+  {
+    "endTime" : "2022-01-31 22:07",
+    "artistName" : "ACRU",
+    "trackName" : "THROW UP SESSION #3",
+    "msPlayed" : 13931
+  },
+  {
+    "endTime" : "2022-01-31 22:12",
+    "artistName" : "Fito Paez",
+    "trackName" : "Parte Del Aire",
+    "msPlayed" : 305493
+  },
+  {
+    "endTime" : "2022-01-31 22:16",
+    "artistName" : "Almendra",
+    "trackName" : "Figuración",
+    "msPlayed" : 212546
+  },
+  {
+    "endTime" : "2022-01-31 22:22",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Dale Luz Al Instante",
+    "msPlayed" : 306800
+  },
+  {
+    "endTime" : "2022-01-31 22:26",
+    "artistName" : "Charly García",
+    "trackName" : "Ojos De Video Tape",
+    "msPlayed" : 215493
+  },
+  {
+    "endTime" : "2022-01-31 22:28",
+    "artistName" : "Spinetta Y Los Socios Del Desierto",
+    "trackName" : "Jardín de Gente",
+    "msPlayed" : 155200
+  },
+  {
+    "endTime" : "2022-01-31 22:35",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Sinfín",
+    "msPlayed" : 366840
+  },
+  {
+    "endTime" : "2022-01-31 22:35",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Canción De Noche",
+    "msPlayed" : 34068
+  },
+  {
+    "endTime" : "2022-01-31 22:39",
+    "artistName" : "Ivan Noble",
+    "trackName" : "Olivia",
+    "msPlayed" : 222706
+  },
+  {
+    "endTime" : "2022-01-31 22:44",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "¡Qué Hermosa Estás!",
+    "msPlayed" : 300333
+  },
+  {
+    "endTime" : "2022-01-31 22:48",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Alma De Diamante",
+    "msPlayed" : 264493
+  },
+  {
+    "endTime" : "2022-01-31 22:53",
+    "artistName" : "Jorge Fandermole",
+    "trackName" : "Oración del remanso",
+    "msPlayed" : 306586
+  },
+  {
+    "endTime" : "2022-01-31 22:58",
+    "artistName" : "Alejandro Sanz",
+    "trackName" : "La Música No Se Toca",
+    "msPlayed" : 288640
+  },
+  {
+    "endTime" : "2022-01-31 23:03",
+    "artistName" : "Guasones",
+    "trackName" : "La Flaca Pili y el Negro Tomás - En Vivo Acústico",
+    "msPlayed" : 303173
+  },
+  {
+    "endTime" : "2022-01-31 23:06",
+    "artistName" : "Pedro Aznar",
+    "trackName" : "A Primera Vista",
+    "msPlayed" : 208240
+  },
+  {
+    "endTime" : "2022-01-31 23:10",
+    "artistName" : "Invisible",
+    "trackName" : "Durazno Sangrando",
+    "msPlayed" : 219186
+  },
+  {
+    "endTime" : "2022-01-31 23:14",
+    "artistName" : "Ram Nasta",
+    "trackName" : "Y me dirán",
+    "msPlayed" : 256580
+  },
+  {
+    "endTime" : "2022-01-31 23:15",
+    "artistName" : "Serú Girán",
+    "trackName" : "Llorando En El Espejo",
+    "msPlayed" : 86577
+  },
+  {
+    "endTime" : "2022-01-31 23:19",
+    "artistName" : "Eladio Carrion",
+    "trackName" : "Sin Frenos",
+    "msPlayed" : 211394
+  },
+  {
+    "endTime" : "2022-01-31 23:22",
+    "artistName" : "Bizarrap",
+    "trackName" : "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+    "msPlayed" : 160000
+  },
+  {
+    "endTime" : "2022-01-31 23:24",
+    "artistName" : "Duki",
+    "trackName" : "TOP 5",
+    "msPlayed" : 146815
+  },
+  {
+    "endTime" : "2022-01-31 23:28",
+    "artistName" : "Duki",
+    "trackName" : "BICI",
+    "msPlayed" : 248966
+  },
+  {
+    "endTime" : "2022-01-31 23:31",
+    "artistName" : "WOS",
+    "trackName" : "MIRÁ MAMÁ",
+    "msPlayed" : 169536
+  },
+  {
+    "endTime" : "2022-01-31 23:34",
+    "artistName" : "Zeballos",
+    "trackName" : "Asimetría",
+    "msPlayed" : 1370
+  },
+  {
+    "endTime" : "2022-01-31 23:34",
+    "artistName" : "Zeballos",
+    "trackName" : "Piedra, Papel o Tijera",
+    "msPlayed" : 174617
+  },
+  {
+    "endTime" : "2022-01-31 23:36",
+    "artistName" : "Bad Bunny",
+    "trackName" : "Pero Ya No",
+    "msPlayed" : 160638
+  },
+  {
+    "endTime" : "2022-01-31 23:57",
+    "artistName" : "Los Buenos Modales",
+    "trackName" : "Vitamina (129)",
+    "msPlayed" : 216944
+  },
+  {
+    "endTime" : "2022-02-01 14:49",
+    "artistName" : "The Beatles",
+    "trackName" : "For No One - Remastered 2009",
+    "msPlayed" : 119813
+  },
+  {
+    "endTime" : "2022-02-01 15:00",
+    "artistName" : "Yusuf / Cat Stevens",
+    "trackName" : "Father And Son",
+    "msPlayed" : 249430
+  },
+  {
+    "endTime" : "2022-02-01 15:03",
+    "artistName" : "Justin Bieber",
+    "trackName" : "Holy (feat. Chance The Rapper)",
+    "msPlayed" : 212093
+  },
+  {
+    "endTime" : "2022-02-01 15:07",
+    "artistName" : "Elton John",
+    "trackName" : "Your Song",
+    "msPlayed" : 241786
+  },
+  {
+    "endTime" : "2022-02-01 15:12",
+    "artistName" : "Eric Clapton",
+    "trackName" : "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+    "msPlayed" : 289026
+  },
+  {
+    "endTime" : "2022-02-01 15:14",
+    "artistName" : "The Beatles",
+    "trackName" : "In My Life - Remastered 2009",
+    "msPlayed" : 146332
+  },
+  {
+    "endTime" : "2022-02-01 15:17",
+    "artistName" : "The Beatles",
+    "trackName" : "Something - Remastered 2009",
+    "msPlayed" : 182293
+  },
+  {
+    "endTime" : "2022-02-01 15:21",
+    "artistName" : "Coldplay",
+    "trackName" : "Green Eyes",
+    "msPlayed" : 223040
+  },
+  {
+    "endTime" : "2022-02-01 15:25",
+    "artistName" : "Coldplay",
+    "trackName" : "Everglow - Live from Spotify London",
+    "msPlayed" : 255853
+  },
+  {
+    "endTime" : "2022-02-01 15:28",
+    "artistName" : "Coldplay",
+    "trackName" : "Higher Power",
+    "msPlayed" : 211293
+  },
+  {
+    "endTime" : "2022-02-01 15:30",
+    "artistName" : "2Pac",
+    "trackName" : "All Eyez On Me (ft. Big Syke)",
+    "msPlayed" : 98614
+  },
+  {
+    "endTime" : "2022-02-01 15:34",
+    "artistName" : "Queen",
+    "trackName" : "Save Me - Remastered 2011",
+    "msPlayed" : 229920
+  },
+  {
+    "endTime" : "2022-02-01 15:36",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Heart Of The Country - Remastered 2012",
+    "msPlayed" : 143173
+  },
+  {
+    "endTime" : "2022-02-01 15:40",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Bad Habits",
+    "msPlayed" : 230746
+  },
+  {
+    "endTime" : "2022-02-01 15:44",
+    "artistName" : "John Mayer",
+    "trackName" : "New Light",
+    "msPlayed" : 217426
+  },
+  {
+    "endTime" : "2022-02-01 15:51",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Hey Jude",
+    "msPlayed" : 421026
+  },
+  {
+    "endTime" : "2022-02-01 16:00",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Castle on the Hill",
+    "msPlayed" : 59792
+  },
+  {
+    "endTime" : "2022-02-01 16:04",
+    "artistName" : "Queen",
+    "trackName" : "Friends Will Be Friends - Remastered 2011",
+    "msPlayed" : 246906
+  },
+  {
+    "endTime" : "2022-02-01 16:07",
+    "artistName" : "Coldplay",
+    "trackName" : "In My Place",
+    "msPlayed" : 226680
+  },
+  {
+    "endTime" : "2022-02-01 16:10",
+    "artistName" : "John Mayer",
+    "trackName" : "Your Body Is a Wonderland",
+    "msPlayed" : 157143
+  },
+  {
+    "endTime" : "2022-02-01 16:15",
+    "artistName" : "Coldplay",
+    "trackName" : "Paradise - Live",
+    "msPlayed" : 332080
+  },
+  {
+    "endTime" : "2022-02-01 16:20",
+    "artistName" : "Mary J. Blige",
+    "trackName" : "One",
+    "msPlayed" : 260466
+  },
+  {
+    "endTime" : "2022-02-01 16:24",
+    "artistName" : "Eric Clapton",
+    "trackName" : "Tears in Heaven",
+    "msPlayed" : 271760
+  },
+  {
+    "endTime" : "2022-02-01 16:29",
+    "artistName" : "Queen",
+    "trackName" : "I Want To Break Free - Single Remix",
+    "msPlayed" : 258013
+  },
+  {
+    "endTime" : "2022-02-01 16:31",
+    "artistName" : "Green Day",
+    "trackName" : "Holiday",
+    "msPlayed" : 127461
+  },
+  {
+    "endTime" : "2022-02-01 16:31",
+    "artistName" : "The Beatles",
+    "trackName" : "The Long And Winding Road - Remastered 2009",
+    "msPlayed" : 1220
+  },
+  {
+    "endTime" : "2022-02-01 16:37",
+    "artistName" : "Pink Floyd",
+    "trackName" : "Money",
+    "msPlayed" : 298268
+  },
+  {
+    "endTime" : "2022-02-01 16:41",
+    "artistName" : "Coldplay",
+    "trackName" : "Let Somebody Go",
+    "msPlayed" : 241595
+  },
+  {
+    "endTime" : "2022-02-01 17:13",
+    "artistName" : "The Beatles",
+    "trackName" : "The Long And Winding Road - Remastered 2009",
+    "msPlayed" : 199738
+  },
+  {
+    "endTime" : "2022-02-01 18:03",
+    "artistName" : "Charly García",
+    "trackName" : "No Se Va A Llamar Mi Amor",
+    "msPlayed" : 130320
+  },
+  {
+    "endTime" : "2022-02-01 18:07",
+    "artistName" : "The Rolling Stones",
+    "trackName" : "Start Me Up - Remastered 2009",
+    "msPlayed" : 213066
+  },
+  {
+    "endTime" : "2022-02-01 18:11",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Un Misil En Mi Placard - MTV Unplugged",
+    "msPlayed" : 274586
+  },
+  {
+    "endTime" : "2022-02-01 18:16",
+    "artistName" : "Juan Carlos Baglietto",
+    "trackName" : "Las Cosas Tienen Movimiento",
+    "msPlayed" : 260906
+  },
+  {
+    "endTime" : "2022-02-01 18:20",
+    "artistName" : "Spinetta Jade",
+    "trackName" : "Alma de Diamante",
+    "msPlayed" : 257573
+  },
+  {
+    "endTime" : "2022-02-01 18:36",
+    "artistName" : "Mercedes Sosa",
+    "trackName" : "Zona de Promesas (with Gustavo Cerati)",
+    "msPlayed" : 196891
+  },
+  {
+    "endTime" : "2022-02-02 17:13",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Visiting Hours",
+    "msPlayed" : 87272
+  },
+  {
+    "endTime" : "2022-02-02 17:15",
+    "artistName" : "The Beatles",
+    "trackName" : "Eleanor Rigby - Remastered 2009",
+    "msPlayed" : 80291
+  },
+  {
+    "endTime" : "2022-02-02 17:16",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Overpass Graffiti",
+    "msPlayed" : 2709
+  },
+  {
+    "endTime" : "2022-02-02 17:19",
+    "artistName" : "The Beatles",
+    "trackName" : "Oh! Darling - Remastered 2009",
+    "msPlayed" : 207240
+  },
+  {
+    "endTime" : "2022-02-02 17:32",
+    "artistName" : "Simple Plan",
+    "trackName" : "Perfect",
+    "msPlayed" : 31981
+  },
+  {
+    "endTime" : "2022-02-02 17:32",
+    "artistName" : "Dillom",
+    "trackName" : "BICICLETA",
+    "msPlayed" : 86
+  },
+  {
+    "endTime" : "2022-02-02 17:36",
+    "artistName" : "Dillom",
+    "trackName" : "BICICLETA",
+    "msPlayed" : 207646
+  },
+  {
+    "endTime" : "2022-02-02 18:33",
+    "artistName" : "Dillom",
+    "trackName" : "DEMIAN",
+    "msPlayed" : 6998
+  },
+  {
+    "endTime" : "2022-02-03 15:17",
+    "artistName" : "Wings",
+    "trackName" : "My Love - 2018 Remaster",
+    "msPlayed" : 247733
+  },
+  {
+    "endTime" : "2022-02-03 15:20",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Jenny Wren",
+    "msPlayed" : 226720
+  },
+  {
+    "endTime" : "2022-02-03 15:23",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Calico Skies - Remastered 2020",
+    "msPlayed" : 152013
+  },
+  {
+    "endTime" : "2022-02-03 15:27",
+    "artistName" : "Wings",
+    "trackName" : "Let Me Roll It - Remastered 2010",
+    "msPlayed" : 290400
+  },
+  {
+    "endTime" : "2022-02-03 15:31",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Say Say Say",
+    "msPlayed" : 234533
+  },
+  {
+    "endTime" : "2022-02-03 15:34",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Little Willow - Remastered 2020",
+    "msPlayed" : 178013
+  },
+  {
+    "endTime" : "2022-02-03 15:36",
+    "artistName" : "The Beatles",
+    "trackName" : "Blackbird - Remastered 2009",
+    "msPlayed" : 138386
+  },
+  {
+    "endTime" : "2022-02-03 15:40",
+    "artistName" : "Paul McCartney",
+    "trackName" : "My Valentine",
+    "msPlayed" : 194026
+  },
+  {
+    "endTime" : "2022-02-03 15:41",
+    "artistName" : "Paul McCartney",
+    "trackName" : "Junk - Remastered 2011",
+    "msPlayed" : 115293
+  },
+  {
+    "endTime" : "2022-02-03 18:54",
+    "artistName" : "The Beatles",
+    "trackName" : "The Long And Winding Road - Remastered 2009",
+    "msPlayed" : 189501
+  },
+  {
+    "endTime" : "2022-02-03 19:02",
+    "artistName" : "El Zar",
+    "trackName" : "El Momento Perfecto",
+    "msPlayed" : 201661
+  },
+  {
+    "endTime" : "2022-02-03 19:05",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "30 Años",
+    "msPlayed" : 195986
+  },
+  {
+    "endTime" : "2022-02-03 19:07",
+    "artistName" : "Bandalos Chinos",
+    "trackName" : "Mi Manera De Ser",
+    "msPlayed" : 160853
+  },
+  {
+    "endTime" : "2022-02-03 19:10",
+    "artistName" : "Conociendo Rusia",
+    "trackName" : "A la Vez",
+    "msPlayed" : 182876
+  },
+  {
+    "endTime" : "2022-02-03 21:02",
+    "artistName" : "Guasones",
+    "trackName" : "La Flaca Pili y el Negro Tomás - En Vivo Acústico",
+    "msPlayed" : 174362
+  },
+  {
+    "endTime" : "2022-02-04 13:04",
+    "artistName" : "El Cuarteto De Nos",
+    "trackName" : "Ya No Sé Que Hacer Conmigo",
+    "msPlayed" : 132010
+  },
+  {
+    "endTime" : "2022-02-04 19:12",
+    "artistName" : "Dillom",
+    "trackName" : "BICICLETA",
+    "msPlayed" : 1557
+  },
+  {
+    "endTime" : "2022-02-05 22:41",
+    "artistName" : "The Lumineers",
+    "trackName" : "Angela",
+    "msPlayed" : 201785
+  },
+  {
+    "endTime" : "2022-02-05 22:45",
+    "artistName" : "Justin Morgan",
+    "trackName" : "Angel",
+    "msPlayed" : 219378
+  },
+  {
+    "endTime" : "2022-02-05 22:46",
+    "artistName" : "Peter Blitz",
+    "trackName" : "Somewhere Over The Rainbow",
+    "msPlayed" : 83482
+  },
+  {
+    "endTime" : "2022-02-06 00:48",
+    "artistName" : "The Beatles",
+    "trackName" : "In My Life - Remastered 2009",
+    "msPlayed" : 146333
+  },
+  {
+    "endTime" : "2022-02-06 00:51",
+    "artistName" : "The Beatles",
+    "trackName" : "Oh! Darling - Remastered 2009",
+    "msPlayed" : 207240
+  },
+  {
+    "endTime" : "2022-02-06 00:53",
+    "artistName" : "The Beatles",
+    "trackName" : "Eleanor Rigby - Remastered 2009",
+    "msPlayed" : 126533
+  },
+  {
+    "endTime" : "2022-02-06 00:59",
+    "artistName" : "The Beatles",
+    "trackName" : "Strawberry Fields Forever - Remastered 2009",
+    "msPlayed" : 122701
+  },
+  {
+    "endTime" : "2022-02-06 01:03",
+    "artistName" : "Michael Jackson",
+    "trackName" : "Love Never Felt So Good",
+    "msPlayed" : 1288
+  },
+  {
+    "endTime" : "2022-02-06 01:03",
+    "artistName" : "The Beatles",
+    "trackName" : "Hey Jude - Remastered 2009",
+    "msPlayed" : 271431
+  },
+  {
+    "endTime" : "2022-02-06 01:03",
+    "artistName" : "U2",
+    "trackName" : "One",
+    "msPlayed" : 1985
+  },
+  {
+    "endTime" : "2022-02-06 01:15",
+    "artistName" : "Elton John",
+    "trackName" : "Candle In The Wind - Remastered 2014",
+    "msPlayed" : 123500
+  },
+  {
+    "endTime" : "2022-02-06 15:01",
+    "artistName" : "Elton John",
+    "trackName" : "Candle In The Wind - Remastered 2014",
+    "msPlayed" : 5775
+  },
+  {
+    "endTime" : "2022-02-06 15:01",
+    "artistName" : "The Beatles",
+    "trackName" : "Yesterday - Remastered 2009",
+    "msPlayed" : 26987
+  },
+  {
+    "endTime" : "2022-02-06 15:01",
+    "artistName" : "Maroon 5",
+    "trackName" : "She Will Be Loved - Radio Mix",
+    "msPlayed" : 3081
+  },
+  {
+    "endTime" : "2022-02-06 15:03",
+    "artistName" : "The Beatles",
+    "trackName" : "Yesterday - Remastered 2009",
+    "msPlayed" : 99610
+  },
+  {
+    "endTime" : "2022-02-06 15:08",
+    "artistName" : "Maroon 5",
+    "trackName" : "She Will Be Loved - Radio Mix",
+    "msPlayed" : 274252
+  },
+  {
+    "endTime" : "2022-02-06 15:11",
+    "artistName" : "Oasis",
+    "trackName" : "Don't Go Away",
+    "msPlayed" : 182192
+  },
+  {
+    "endTime" : "2022-02-06 15:14",
+    "artistName" : "Lady Gaga",
+    "trackName" : "Always Remember Us This Way",
+    "msPlayed" : 210200
+  },
+  {
+    "endTime" : "2022-02-06 15:17",
+    "artistName" : "Keane",
+    "trackName" : "Silenced By The Night",
+    "msPlayed" : 196466
+  },
+  {
+    "endTime" : "2022-02-06 15:19",
+    "artistName" : "The Beatles",
+    "trackName" : "Eleanor Rigby - Remastered 2009",
+    "msPlayed" : 126533
+  },
+  {
+    "endTime" : "2022-02-06 15:23",
+    "artistName" : "The Beatles",
+    "trackName" : "Oh! Darling - Remastered 2009",
+    "msPlayed" : 207240
+  },
+  {
+    "endTime" : "2022-02-06 15:26",
+    "artistName" : "Eric Clapton",
+    "trackName" : "Tears in Heaven",
+    "msPlayed" : 17118
+  },
+  {
+    "endTime" : "2022-02-06 15:26",
+    "artistName" : "Red Hot Chili Peppers",
+    "trackName" : "Californication",
+    "msPlayed" : 183534
+  },
+  {
+    "endTime" : "2022-02-06 15:29",
+    "artistName" : "Justin Bieber",
+    "trackName" : "Holy (feat. Chance The Rapper)",
+    "msPlayed" : 212093
+  },
+  {
+    "endTime" : "2022-02-06 15:34",
+    "artistName" : "John Mayer",
+    "trackName" : "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+    "msPlayed" : 263573
+  },
+  {
+    "endTime" : "2022-02-06 15:37",
+    "artistName" : "Coldplay",
+    "trackName" : "Green Eyes",
+    "msPlayed" : 165853
+  },
+  {
+    "endTime" : "2022-02-06 15:39",
+    "artistName" : "Red Hot Chili Peppers",
+    "trackName" : "Dark Necessities",
+    "msPlayed" : 153807
+  },
+  {
+    "endTime" : "2022-02-06 15:41",
+    "artistName" : "Justin Bieber",
+    "trackName" : "Beauty And A Beat",
+    "msPlayed" : 144693
+  },
+  {
+    "endTime" : "2022-02-06 15:44",
+    "artistName" : "Charlie Puth",
+    "trackName" : "Light Switch",
+    "msPlayed" : 185680
+  },
+  {
+    "endTime" : "2022-02-06 15:47",
+    "artistName" : "The Rolling Stones",
+    "trackName" : "Gimme Shelter",
+    "msPlayed" : 126136
+  },
+  {
+    "endTime" : "2022-02-06 15:49",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Galway Girl",
+    "msPlayed" : 170826
+  },
+  {
+    "endTime" : "2022-02-06 15:51",
+    "artistName" : "Bryan Adams",
+    "trackName" : "I'll Always Be Right There - MTV Unplugged Version",
+    "msPlayed" : 71965
+  },
+  {
+    "endTime" : "2022-02-06 15:52",
+    "artistName" : "The Beatles",
+    "trackName" : "We Can Work It Out - Remastered 2015",
+    "msPlayed" : 111462
+  },
+  {
+    "endTime" : "2022-02-06 15:58",
+    "artistName" : "John Mayer",
+    "trackName" : "Your Body Is a Wonderland",
+    "msPlayed" : 5130
+  },
+  {
+    "endTime" : "2022-02-06 15:58",
+    "artistName" : "Pink Floyd",
+    "trackName" : "Comfortably Numb",
+    "msPlayed" : 352396
+  },
+  {
+    "endTime" : "2022-02-06 15:59",
+    "artistName" : "R.E.M.",
+    "trackName" : "Everybody Hurts",
+    "msPlayed" : 25480
+  },
+  {
+    "endTime" : "2022-02-06 16:00",
+    "artistName" : "Ed Sheeran",
+    "trackName" : "Bad Habits",
+    "msPlayed" : 61478
+  },
+  {
+    "endTime" : "2022-02-06 16:12",
+    "artistName" : "The Beatles",
+    "trackName" : "All You Need Is Love - Remastered 2009",
+    "msPlayed" : 100844
+  },
+  {
+    "endTime" : "2022-02-07 14:49",
+    "artistName" : "¿Por qué no te habré hecho caso? con Santiago Siri y Hernán Zin",
+    "trackName" : "6. Guía de supervivencia para un mercado criptobajista",
+    "msPlayed" : 2298829
+  },
+  {
+    "endTime" : "2022-02-07 14:54",
+    "artistName" : "Pedro Aznar",
+    "trackName" : "While My Guitar Gently Weeps - En Vivo",
+    "msPlayed" : 313080
+  },
+  {
+    "endTime" : "2022-02-07 15:01",
+    "artistName" : "Soda Stereo",
+    "trackName" : "En La Ciudad De La Furia - Remasterizado 2007",
+    "msPlayed" : 397676
+  },
+  {
+    "endTime" : "2022-02-07 15:04",
+    "artistName" : "Charly García",
+    "trackName" : "Chipi Chipi - Live",
+    "msPlayed" : 223073
+  },
+  {
+    "endTime" : "2022-02-07 15:09",
+    "artistName" : "Fito Paez",
+    "trackName" : "Tres Agujas",
+    "msPlayed" : 257089
+  },
+  {
+    "endTime" : "2022-02-07 15:14",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Dale Luz Al Instante",
+    "msPlayed" : 306022
+  },
+  {
+    "endTime" : "2022-02-07 15:17",
+    "artistName" : "Serú Girán",
+    "trackName" : "Parado En El Medio De La Vida",
+    "msPlayed" : 132622
+  },
+  {
+    "endTime" : "2022-02-07 15:23",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Cancion para los Días de la Vida",
+    "msPlayed" : 347859
+  },
+  {
+    "endTime" : "2022-02-07 15:26",
+    "artistName" : "Fito Paez",
+    "trackName" : "Beer Blues (feat. Elvis Costello)",
+    "msPlayed" : 198871
+  },
+  {
+    "endTime" : "2022-02-07 15:32",
+    "artistName" : "Pescado Rabioso",
+    "trackName" : "Como el Viento Voy a Ver",
+    "msPlayed" : 311428
+  },
+  {
+    "endTime" : "2022-02-07 15:34",
+    "artistName" : "Andrés Calamaro",
+    "trackName" : "No Me Pidas Que No Sea Un Inconsciente",
+    "msPlayed" : 129891
+  },
+  {
+    "endTime" : "2022-02-07 15:37",
+    "artistName" : "Juan Carlos Baglietto",
+    "trackName" : "El Tempano",
+    "msPlayed" : 194207
+  },
+  {
+    "endTime" : "2022-02-07 15:41",
+    "artistName" : "Sui Generis",
+    "trackName" : "Juan Represión",
+    "msPlayed" : 208116
+  },
+  {
+    "endTime" : "2022-02-07 15:46",
+    "artistName" : "Porsuigieco",
+    "trackName" : "La colina de la vida - Leí",
+    "msPlayed" : 334027
+  },
+  {
+    "endTime" : "2022-02-07 15:50",
+    "artistName" : "Fito Paez",
+    "trackName" : "La rueda mágica",
+    "msPlayed" : 234051
+  },
+  {
+    "endTime" : "2022-02-07 15:53",
+    "artistName" : "Fito Paez",
+    "trackName" : "11 Y 6",
+    "msPlayed" : 178092
+  },
+  {
+    "endTime" : "2022-02-07 15:57",
+    "artistName" : "Fito Paez",
+    "trackName" : "Brillante sobre el mic",
+    "msPlayed" : 248392
+  },
+  {
+    "endTime" : "2022-02-07 16:00",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Primavera 0 - Remasterizado 2007",
+    "msPlayed" : 132340
+  },
+  {
+    "endTime" : "2022-02-07 16:03",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Ya No Mires Atrás",
+    "msPlayed" : 223397
+  },
+  {
+    "endTime" : "2022-02-07 16:07",
+    "artistName" : "Serú Girán",
+    "trackName" : "Peperina",
+    "msPlayed" : 220028
+  },
+  {
+    "endTime" : "2022-02-07 16:11",
+    "artistName" : "Andrés Calamaro",
+    "trackName" : "Naranjo en flor",
+    "msPlayed" : 232317
+  },
+  {
+    "endTime" : "2022-02-07 16:15",
+    "artistName" : "Ricardo Soule",
+    "trackName" : "Presente (El Momento en Que Estás) - 50º Aniversario",
+    "msPlayed" : 227942
+  },
+  {
+    "endTime" : "2022-02-07 16:17",
+    "artistName" : "Charly García",
+    "trackName" : "Chicas Muertas",
+    "msPlayed" : 133692
+  },
+  {
+    "endTime" : "2022-02-07 16:22",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Fuerza Natural",
+    "msPlayed" : 289564
+  },
+  {
+    "endTime" : "2022-02-07 16:25",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Quedándote O Yéndote",
+    "msPlayed" : 208766
+  },
+  {
+    "endTime" : "2022-02-07 16:28",
+    "artistName" : "Almendra",
+    "trackName" : "Ana No Duerme",
+    "msPlayed" : 161735
+  },
+  {
+    "endTime" : "2022-02-07 16:31",
+    "artistName" : "Sui Generis",
+    "trackName" : "Rasguña las Piedras",
+    "msPlayed" : 189772
+  },
+  {
+    "endTime" : "2022-02-08 00:06",
+    "artistName" : "Charly García",
+    "trackName" : "Ojos De Video Tape",
+    "msPlayed" : 192765
+  },
+  {
+    "endTime" : "2022-02-08 13:36",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Quedándote O Yéndote",
+    "msPlayed" : 208956
+  },
+  {
+    "endTime" : "2022-02-08 13:37",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Tu Locura",
+    "msPlayed" : 53651
+  },
+  {
+    "endTime" : "2022-02-08 13:42",
+    "artistName" : "Fito Paez",
+    "trackName" : "El amor después del amor",
+    "msPlayed" : 311841
+  },
+  {
+    "endTime" : "2022-02-08 13:46",
+    "artistName" : "Pescado Rabioso",
+    "trackName" : "Las Habladurias del Mundo",
+    "msPlayed" : 242758
+  },
+  {
+    "endTime" : "2022-02-08 13:48",
+    "artistName" : "Charly García",
+    "trackName" : "No Se Va A Llamar Mi Amor",
+    "msPlayed" : 129608
+  },
+  {
+    "endTime" : "2022-02-08 13:53",
+    "artistName" : "Fito Paez",
+    "trackName" : "Tumbas de la gloria",
+    "msPlayed" : 272040
+  },
+  {
+    "endTime" : "2022-02-08 13:57",
+    "artistName" : "Sui Generis",
+    "trackName" : "Aprendizaje",
+    "msPlayed" : 232170
+  },
+  {
+    "endTime" : "2022-02-08 14:00",
+    "artistName" : "Charly García",
+    "trackName" : "Pasajera en Trance",
+    "msPlayed" : 193718
+  },
+  {
+    "endTime" : "2022-02-08 14:38",
+    "artistName" : "Serú Girán",
+    "trackName" : "Eiti-Leda (Remasterizado 2021)",
+    "msPlayed" : 91186
+  },
+  {
+    "endTime" : "2022-02-08 14:41",
+    "artistName" : "Fito Paez",
+    "trackName" : "Polaroid De Locura Ordinaria",
+    "msPlayed" : 209178
+  },
+  {
+    "endTime" : "2022-02-08 14:44",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Tráeme la Noche (Bring on the Night) (with Andy Summers)",
+    "msPlayed" : 181724
+  },
+  {
+    "endTime" : "2022-02-08 14:48",
+    "artistName" : "Charly García",
+    "trackName" : "Los Dinosaurios",
+    "msPlayed" : 208002
+  },
+  {
+    "endTime" : "2022-02-08 14:53",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Lago en el Cielo",
+    "msPlayed" : 308955
+  },
+  {
+    "endTime" : "2022-02-08 14:58",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "He Visto a Lucy",
+    "msPlayed" : 331134
+  },
+  {
+    "endTime" : "2022-02-08 15:01",
+    "artistName" : "Charly García",
+    "trackName" : "De Mí",
+    "msPlayed" : 174695
+  },
+  {
+    "endTime" : "2022-02-08 15:06",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Puente",
+    "msPlayed" : 273730
+  },
+  {
+    "endTime" : "2022-02-08 15:10",
+    "artistName" : "Sui Generis",
+    "trackName" : "El Día Que Apagaron La Luz",
+    "msPlayed" : 269764
+  },
+  {
+    "endTime" : "2022-02-08 15:13",
+    "artistName" : "Gustavo Cerati",
+    "trackName" : "Tu Locura",
+    "msPlayed" : 135526
+  },
+  {
+    "endTime" : "2022-02-08 15:17",
+    "artistName" : "Fito Paez",
+    "trackName" : "La Mujer Torso y el Hombre de la Cola de Ameba",
+    "msPlayed" : 247214
+  },
+  {
+    "endTime" : "2022-02-08 15:20",
+    "artistName" : "Invisible",
+    "trackName" : "Dios de Adolescencia",
+    "msPlayed" : 165377
+  },
+  {
+    "endTime" : "2022-02-08 15:23",
+    "artistName" : "Almendra",
+    "trackName" : "Laura Va",
+    "msPlayed" : 167707
+  },
+  {
+    "endTime" : "2022-02-08 15:27",
+    "artistName" : "Charly García",
+    "trackName" : "Rezo por Vos",
+    "msPlayed" : 268770
+  },
+  {
+    "endTime" : "2022-02-08 15:31",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Primavera 0 - Remasterizado 2007",
+    "msPlayed" : 221159
+  },
+  {
+    "endTime" : "2022-02-08 15:34",
+    "artistName" : "Serú Girán",
+    "trackName" : "Desarma Y Sangra - Remastered",
+    "msPlayed" : 222157
+  },
+  {
+    "endTime" : "2022-02-08 15:40",
+    "artistName" : "Invisible",
+    "trackName" : "El Anillo del Capitán Beto",
+    "msPlayed" : 305397
+  },
+  {
+    "endTime" : "2022-02-09 20:11",
+    "artistName" : "Luis Alberto Spinetta",
+    "trackName" : "Dale Luz Al Instante",
+    "msPlayed" : 306800
+  },
+  {
+    "endTime" : "2022-02-09 20:15",
+    "artistName" : "Charly García",
+    "trackName" : "Siempre Puedes Olvidar",
+    "msPlayed" : 231000
+  },
+  {
+    "endTime" : "2022-02-09 20:17",
+    "artistName" : "Serú Girán",
+    "trackName" : "Parado En El Medio De La Vida",
+    "msPlayed" : 142653
+  },
+  {
+    "endTime" : "2022-02-09 20:20",
+    "artistName" : "Fito Paez",
+    "trackName" : "Un vestido y un amor",
+    "msPlayed" : 199000
+  },
+  {
+    "endTime" : "2022-02-09 20:24",
+    "artistName" : "Fito Paez",
+    "trackName" : "Fue amor",
+    "msPlayed" : 253373
+  },
+  {
+    "endTime" : "2022-02-09 20:28",
+    "artistName" : "Sui Generis",
+    "trackName" : "Rasguña las Piedras (En Vivo)",
+    "msPlayed" : 236493
+  },
+  {
+    "endTime" : "2022-02-09 20:30",
+    "artistName" : "Sui Generis",
+    "trackName" : "Quizás, Porque",
+    "msPlayed" : 132973
+  },
+  {
+    "endTime" : "2022-02-09 20:34",
+    "artistName" : "Charly García",
+    "trackName" : "Nuevos Trapos",
+    "msPlayed" : 245040
+  },
+  {
+    "endTime" : "2022-02-09 20:38",
+    "artistName" : "Fito Paez",
+    "trackName" : "Cancion Sobre Cancion",
+    "msPlayed" : 228306
+  },
+  {
+    "endTime" : "2022-02-09 20:43",
+    "artistName" : "Soda Stereo",
+    "trackName" : "Un Misil En Mi Placard - MTV Unplugged",
+    "msPlayed" : 274586
+  },
+  {
+    "endTime" : "2022-02-09 20:46",
+    "artistName" : "Serú Girán",
+    "trackName" : "Nos Veremos Otra Vez",
+    "msPlayed" : 238400
+  },
+  {
+    "endTime" : "2022-02-09 20:49",
+    "artistName" : "Spinetta Jade",
+    "trackName" : "Maribel Se Durmió",
+    "msPlayed" : 155466
+  },
+  {
+    "endTime" : "2022-02-09 20:52",
+    "artistName" : "Los Gatos",
+    "trackName" : "La Balsa",
+    "msPlayed" : 176000
+  }
+]
