@@ -1,5 +1,7 @@
 # Spotify-Analysis-I
-First approach to data analysis of my streaming history in 2021
+First approach to data analysis of my streaming history in 2021.
+
+In case you don´t know it, in addition to the API, you can ask this information to Spotify at: https://www.spotify.com/us/account/privacy/?_ga=2.12333620.1233360887.1644239909-774627995.1644239909
 
 After asking **spotify to send me my Streaming history** for the past year, we used _Data Wrangling tools in Jupyter Notebook_ in order to organize our songs.
 Feel free to go through my code in **Streaming History Domingo.ipynb**. The comments in there are in Spanish.
