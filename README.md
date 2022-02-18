@@ -15,3 +15,6 @@ For you to know, some extra subjects we could have added:
 - Audio feature Analysis
 - Clusterization
 - Predicting a song will be in our library
+
+You can also check my Medium story
+https://medium.com/@dominicrizzi/first-tableau-analysis-into-my-spotify-streaming-history-2021-1f6426b642d9
